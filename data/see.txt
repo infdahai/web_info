@@ -1,0 +1,274 @@
+﻿去掉逗号之后，地名和时间nlp的判断会有差别。 比如在有逗号情况下  Indian Institute of Science, Bengalaru, India, January 4, 2019
+ 第一个识别为People,第二个为country，时间会多出一个逗号.  但去掉逗号后，会识别为一长串 organization.
+
+为了便捷(去掉逗号后，起码用RE匹配时间会方便点) 我们去掉comma.
+因此，在Location recognization 过程中， 我们需要观察生成的输出，把一些无法识别的字符串，要提前将nerTag改为对应值。
+比如, Bengalaru 标签应该为 CITY.
+
+0：
+for the 37th International Conference on Conceptual Modeling (ER 2018), 
+which will be held in Xi'an, one of the historical capitals of China, from the 22d to the 25th of October, 2018. 
+
+Early registration deadline is September 22, 2018
+
+1：
+2nd International Workshop on Uncertainty in Cloud Computing (UCC 2018)
+<A HREF="http://sites.google.com/site/ucc18workshop/">http://sites.google.com/site/ucc18workshop/</A>
+
+Held in parallel with
+10th IEEE International Conference on Cloud Computing Technology and Science (CloudCom 2018).
+Nicosia, Cyprus
+December 10, 2018
+
+IMPORTANT DATES:
+Full paper submission: extended to September 30, 2018 (...ddl....)
+Notification of acceptance: October 25, 2018
+Camera-ready copies due: November 05, 2018
+Workshop date: December 10, 2018
+
+2:
+有问题，
+https://research.cs.wisc.edu/dbworld/messages/2018-09/1536826641.html
+
+需要剔除
+
+3:
+University of Stavanger in Norway invites applications for a fully funded PhD position in "Conversational AI" or "Graph embeddings" at Department of Computer Science and Electrical Engineering.
+
+Deadline for the application: Sunday, September 30, 2018
+
+不是会议删除
+
+4: 
+9th International Conference on Internet Technologies & Society 2019
+8 � 10 February 2019, Hong Kong 
+Submission Deadline: 8 October 2018
+
+5：
+
+21st International Conference on Enterprise Information Systems
+
+Submission Deadline: December 10, 2018
+
+May 3 - 5, 2019
+Heraklion, Crete, Greece.
+
+6.
+
+5th International Conference on Information and Communication Technologies for Ageing Well and e-Health
+
+Submission Deadline: December 10, 2018
+
+<A HREF="http://www.ict4ageingwell.org/">http://www.ict4ageingwell.org/</A>
+
+May 2 - 4, 2019
+Heraklion, Crete, Greece.
+
+7：
+Multiple Faculty Positions
+Required Qualifications
+Application Procedures
+phD职位邀请
+https://research.cs.wisc.edu/dbworld/messages/2018-09/1536854592.html
+剔除
+
+8:
+The 3rd IEEE International Workshop on Big Spatial Data (BSD 2018)
+in conjunction with the 6th IEEE International Conference on Big Data (Big Data 2018) 
+December 10-13, 2017, Seattle, WA, USA
+<A HREF="http://cse.ucdenver.edu/~BSD2018/">http://cse.ucdenver.edu/~BSD2018/</A>
+
+Important Dates:
+-------------------
+
+Paper Submission Deadline: Oct 10, 2018 
+Notification of Acceptance:  Nov 1, 2018 
+Camera-Ready Submissions: Nov 15, 2018 
+Workshop Date: Dec 10-13, 2018
+
+9:
+Call for Papers for the 9th International Workshop on Trust, Security and Privacy for Big Data (TrustData 2018)
+ 
+Venue & Dates: 
+Melbourne, Australia, December 11-13, 2018
+Conference Website:
+<A HREF="http://www.spaccs.org/trustdata2018/">http://www.spaccs.org/trustdata2018/</A>
+
+Important Dates
+Paper Submission Deadline:    July 30, 2018
+Author Notification:          September 30, 2018
+Camera-Ready Paper Due:       October 15, 2018
+Conference Dates:             December 11-13, 2018
+              
+10:
+We invite candidates for PhD student and Postdoc positions to start
+in 2018 or early 2019 in Innsbruck. The 5-year ERC project "SMART"
+aims to combine modern machine learning techniques with formal
+reasoning to provide proof advice and assistance.
+剔除
+
+11：
+The VLDB Journal is launching a special issue on surveys in data management.
+The submission can go up  to 40 pages and the deadline is Dec 31.
+To speed up publication, we are setting the review turnaround to 2 months.
+A dropdown menu will appear at submission time.
+剔除
+
+12:
+同11
+
+13：
+Professor of Intelligent Systems
+recruiting
+candidate
+
+14:
+注意到后面常有  call for ----
+35th IEEE International Conference on Data Engineering (ICDE 2019)
+
+Call for Demonstration Proposals
+
+
+***Important Dates
+All deadlines are 11:59PM US PDT
+Demo Submission: Nov 23, 2018
+Notification of acceptance: February 1, 2019
+Camera-Ready copy due: February 22, 2019
+
+没有地点信息，且存在 干扰项  deadline单词影响。
+
+15:
+35th IEEE International Conference on Data Engineering (ICDE 2019)
+<A HREF="http://conferences.cis.umac.mo/icde2019/">http://conferences.cis.umac.mo/icde2019/</A>
+
+Call for Demonstration Proposals
+
+14,15均为征求意见书, 剔除
+
+16:
+			  =======Call for Papers=====
+
+		1st INTERNATIONAL CONFERENCE ON BIG DATA AND CYBER-SECURITY INTELLIGENCE (BDCSIntell�2018)
+							Hadath, Lebanon
+						  December 13-15, 2018 
+Conference Website: <A HREF="http://www.cognitus.fr/BDCSIntell2018/">http://www.cognitus.fr/BDCSIntell2018/</A>
+
+
+********************Key Dates*************************************
+
+Abstract submission: 30/09/2018 ((ddl))
+Full paper submission: 20/10/2018
+Notification to authors: 15/11/2018.
+Camera-ready papers due: 25/11/2018.
+
+17:
+CALL FOR PAPERS
+
+2019 Australasian Computer Science Week (ACSW 2019)
+<A HREF="http://www.acsw.org.au/">http://www.acsw.org.au/</A>  
+Macquarie University, Australia (only 15 km away from Sydney CBD)
+29-31 Janurary 2019
+
+Paper submission: **Final Extended** September 19, 2018 anywhere in the world (23:59 UTC-12) [See the details for each conference at the bottom]
+Author notification: October 15, 2018
+Camera-ready full papers: November 9, 2018.
+
+18:
+CAiSE'19 - 31th International Conference on Advanced Information Systems Engineering
+
+3-7 June 2019, Roma, Italy 
+
+https://www.caise19.it/ 
+
+
+
+Abstract submission:     23 November 2018
+
+Paper submission:        30 November 2018? 23:59 PST (strict)
+
+Notification to authors: 28 February 2019
+
+Workshops proposals submission: 1 November 2018 
+
+
+
+Theme: Responsible Information Systems
+
+
+19:
+CAiSE 2019 Call for Workshop Proposals
+31st International Conference on Advanced Information Systems Engineering
+June 3-7, Rome, Italy
+https://www.caise19.it
+
+征集研讨会方案，~~不管了~~  要管的
+
+
+Important dates:
+1 November 2018	Deadline for submission of workshops proposals (via email)
+30 November 2018	Notification of workshop acceptance
+15 March 2019	Camera ready of all papers and summary by workshop chairs
+3-4 June 2019 	Workshops
+
+20:
+
+
+5th INTERNATIONAL WINTER SCHOOL ON BIG DATA
+
+BigDat 2019
+
+Cambridge, United Kingdom
+
+January 7-11, 2019
+
+Co-organized by:
+
+Cambridge Big Data Initiative, University of Cambridge
+
+Institute for Research Development, Training and Advice (IRDTA)
+Brussels / London
+
+<A HREF="http://bigdat2019.irdta.eu/">http://bigdat2019.irdta.eu/</A>
+
+
+--- Early registration deadline: September 18, 2018 ---
+
+21:
+
+
+1st International Workshop on Social Media Analytics for Healthcare (SMA4H)
+
+Workshop Website: <A HREF="http://sma4h.icar.cnr.it/">http://sma4h.icar.cnr.it/</A>
+
+
+
+Held in conjunction with IEEE/WIC/ACM International Conference on Web Intelligence 2018 (WI'18) December 3-6, 2018, Santiago, Chile
+
+Conference Website: <A HREF="http://webintelligence2018.com/">http://webintelligence2018.com/</A>
+
+
+------------------------
+
+Important dates
+
+------------------------
+
+September 30, 2018: Paper Submission deadline (extended)
+
+October 05, 2018: Paper Notification
+
+October 12, 2018: Camera-Ready Paper Due
+
+December 03, 2018: Workshop
+
+22:
+
+
+
+
+
+
+
+
+
+

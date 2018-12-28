@@ -1,0 +1,590 @@
+id: 0 http://faculty.missouri.edu/yooil/Workshop/BHI2018/
+id: 1 
+id: 2 http://www.platcon.org/
+id: 3 http://www.cibsecuba2019.com
+id: 4 
+id: 5 https://easychair.org/cfp/dsanrm2018
+id: 6 www.ieee-mipr.org
+id: 7 http://www.swat4ls.org/
+id: 8 http://www.cloudbus.org/fog/icfec2019/
+id: 9 https://sites.google.com/nitc.ac.in/chin2019/home
+id: 10 http://www.wistp.org/
+id: 11 http://lata2019.irdta.eu/
+id: 12 https://www.sigapp.org/sac/sac2019
+id: 13 https://btw.informatik.uni-rostock.de/index.php/en/workshops/nodmc
+id: 14 http://irc.asia.edu.tw/2019/
+id: 15 http://www.comp.hkbu.edu.hk/~xinhuang/BSMDMA2018/
+id: 16 https://sites.google.com/view/cbpbl2018/home
+id: 17 https://steliosot0.wixsite.com/adon
+id: 18 
+id: 19 https://bigcyber2018.umbc.edu/
+id: 20 http://www.units.it/cuzzocrea/confs/PSBD2018/
+id: 21 https://www.um.org/umap2019/
+id: 22 http://iui.acm.org/2019/
+id: 23 http://w3phiai2019.w3phi.com/
+id: 24 http://vldb.org/2019/?call-for-research-track
+id: 25 http://www.cikm2018.units.it/
+id: 26 http://www.vehits.org/
+id: 27 http://www.gistam.org
+id: 28 https://sites.google.com/view/acmsacdm2019/
+id: 29 https://sites.google.com/view/acmsacwice2019/
+id: 30 http://www.ijist.net/ICSENT2018/
+id: 31 https://sites.google.com/site/ucc18workshop/
+id: 32 
+id: 33 https://cidas.iasbs.ac.ir
+id: 34 https://bdsde.sciencesconf.org/
+id: 35 http://2018.issre.net
+id: 36 http://www.codaspy.org/
+id: 37 http://bigdat2019.irdta.eu/
+id: 38 https://icwe2019.webengineering.org/
+id: 39 http://www.femib.scitevents.org/
+id: 40 http://isko-maghreb.loria.fr
+id: 41 https://sites.google.com/view/acmsacdm2019/
+id: 42 https://sites.google.com/view/acmsacwice2019/
+id: 43 
+id: 44 http://icst2019.xjtu.edu.cn/
+id: 45 http://www.wcst.org/#call-for-papers
+id: 46 http://klp.fbk.eu
+id: 47 http://www.icitst.org
+id: 48 URL: https://isoft.acm.org/isec2019/
+id: 49 https://lsgda.github.io/
+id: 50 
+id: 51 
+id: 52 http://lata2019.irdta.eu/
+id: 53 
+id: 54 https://www.ieee-icsc.org/
+id: 55  https://www.sigmobile.org/mobihoc/
+id: 56 http://conferences.cis.umac.mo/icde2019/
+id: 57 http://bit.do/ICESS2018
+id: 58 http://bit.do/ICIA2018
+id: 59 https://www.um.org/umap2019/
+id: 60 http://www.swat4hcls.org/
+id: 61 
+id: 62 http://www.is-conf.org/
+id: 63 http://cs-conferences.acadiau.ca/ant-19/
+id: 64 http://cs-conferences.acadiau.ca/EDI40-19/
+id: 65 https://userpages.umbc.edu/~jianwu/BPOD/
+id: 66 http://www.aten.tn/ICDEc2019/
+id: 67 http://www.wistp.org/
+id: 68 
+id: 69 http://bigdat2019.irdta.eu/
+id: 70 https://turing.manhattan.edu/~ankur.agrawal/workshop/bibm2018.html
+id: 71 https://iccs-conference.org
+id: 72 http://www.wistp.org/
+id: 73 http://www.ir.disco.unimib.it/ai4bigdata19/
+id: 74 
+id: 75 http://www.informatics-europe.org/ecss/home.html
+id: 76 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 77 http://conferences.cis.umac.mo/icde2019/
+id: 78 http://scdm.cloud/
+id: 79 
+id: 80 http://www.esociety-conf.org/
+id: 81 http://sigir.org/chiir2019/index.html
+id: 82 http://lata2019.irdta.eu/
+id: 83 
+id: 84 https://easychair.org/cfp/wisc19
+id: 85 https://easychair.org/cfp/wisc19
+id: 86 https://americancse.org/events/csci2018
+id: 87 https://jelia2019.mat.unical.it/
+id: 88 https://bdsde.sciencesconf.org/
+id: 89 http://www.ieee-cic.org/
+id: 90 
+id: 91 http://2018.sigbps.org
+id: 92 
+id: 93 http://scdm.cloud/
+id: 94 http://www.healthinf.biostec.org/
+id: 95 http://staff.icar.cnr.it/cannataro/hibb2018/
+id: 96 
+id: 97 https://bigcyber2018.umbc.edu/
+id: 98 http://stats.research.att.com/grad-symposium/
+id: 99 https://db.cs.pitt.edu/smdb2019
+id: 100  www.uhasselt.be/dbdbd2018
+id: 101 http://www.cs.put.poznan.pl/events/DOLAP2019.html
+id: 102 http://www.worldcis.org
+id: 103 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 104 https://sigmod2019.org
+id: 105 http://www.icaart.org/NLPinAI.aspx
+id: 106 https://userpages.umbc.edu/~jianwu/BPOD/
+id: 107 http://bigdat2019.irdta.eu/
+id: 108 https://americancse.org/events/csci2018/Symposiums/csci_ishi
+id: 109 http://icaiic.org
+id: 110 http://cs-conferences.acadiau.ca/EDI40-19/
+id: 111 https://www.ieee-icsc.org/
+id: 112 http://www.icitst.org
+id: 113 https://bdsde.sciencesconf.org/
+id: 114  http://csa-conference.org/2018
+id: 115 http://www.futuretech-conference.org/2019
+id: 116 http://lata2019.irdta.eu/
+id: 117 http://www.mue-conference.org/2019
+id: 118 https://www.ieee-security.org/TC/EuroSP2019/
+id: 119 http://w2gis2019.web.nitech.ac.jp
+id: 120 http://www.wistp.org/
+id: 121 http://www.ieee-mipr.org
+id: 122 http://www.invenio.com.br/flairs/
+id: 123 http://www.iike.science/
+id: 124 www.ieee-mipr.org
+id: 125 https://userpages.umbc.edu/~jianwu/BPOD/
+id: 126 https://sites.google.com/view/wristsense2019
+id: 127 https://bigcyber2018.umbc.edu/
+id: 128 http://isi18.azurewebsites.net/
+id: 129 http://www.comp.hkbu.edu.hk/~xinhuang/BSMDMA2018
+id: 130 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 131 http://cse.ucdenver.edu/~BSD2018/
+id: 132 http://irc.asia.edu.tw/2019/
+id: 133 http://bigdat2019.irdta.eu/
+id: 134 www.iccsa.org
+id: 135 https://cs.utdallas.edu/ut-diisc/iwisc-2019/
+id: 136 http://www.percom.org/
+id: 137 http://www.wistp.org/
+id: 138 http://medi2018.uca.ma/
+id: 139 humanmachinedata.org
+id: 140 http://dbdmg.polito.it/darli-ap2019/
+id: 141 http://dbdmg.polito.it/darli-ap2019
+id: 142 http://www.comp.hkbu.edu.hk/~xinhuang/BSMDMA2018
+id: 143 http://conferences.cis.umac.mo/icde2019/
+id: 144 
+id: 145 http://ke.cau.ac.kr/wims2019/
+id: 146 http://sacla2019.unisa.ac.za
+id: 147 http://www.sacmat.org/
+id: 148 http://www.pakdd2019.org
+id: 149 http://www.blockchain-ieee.org/ 
+id: 150 http://iwbigdatacity.org/
+id: 151 https://dasfaa2019.eng.cmu.ac.th/
+id: 152 http://lata2019.irdta.eu/
+id: 153 http://www.otmconferences.org/
+id: 154 http://icwe2019.webengineering.org/
+id: 155 http://conferences.cis.umac.mo/icde2019/
+id: 156 https://americancse.org/events/csci2018
+id: 157 https://sigspatial2018.sigspatial.org
+id: 158 http://bigdat2019.irdta.eu/
+id: 159 http://www.nwpu-bioinformatics.com/ER2018/
+id: 160 https://sites.google.com/view/wristsense2019
+id: 161 https://www.acsac.org/2018/workshops/dynamics/
+id: 162 https://www.comsnets.org/waci_workshop.html
+id: 163 http://conferences.computer.org/services/2019/
+id: 164 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 165 https://hpi.de/forschung/future-soc-lab-service-oriented-computing.html
+id: 166 http://icet.org.pk/2018/
+id: 167 https://userpages.umbc.edu/~jianwu/BPOD/
+id: 168 http://edbticdt2019.inesc-id.pt/
+id: 169 http://www.visigrapp.org/
+id: 170 https://www.ieee-icsc.org/
+id: 171 https://www.aaai-make.info/
+id: 172 http://conferences.cis.umac.mo/icde2019/?page_id=306
+id: 173 http://www.icissp.org
+id: 174 https://bigvis.imsi.athenarc.gr/bigvis2019
+id: 175 http://voyager.ce.fit.ac.jp/conf/eidwt/2019/
+id: 176 https://userpages.umbc.edu/~jianwu/BPOD/
+id: 177 http://nvmw.ucsd.edu/
+id: 178 http://www.bigcomp-asc.org/
+id: 179 http://i2mtc2019.ieee-ims.org/
+id: 180 
+id: 181 https://btw.informatik.uni-rostock.de/index.php/en/workshops/nodmc
+id: 182 http://www.icpram.org/
+id: 183 https://www.pdp2019.eu/hpcms.html
+id: 184 http://scdm.cloud/
+id: 185 http://lata2019.irdta.eu/
+id: 186 http://cs-conferences.acadiau.ca/EDI40-19/#workshop
+id: 187 http://ccgrid2019.ucy.ac.cy/
+id: 188 
+id: 189 
+id: 190 https://rsbd2019.wordpress.com
+id: 191 http://edbticdt2019.inesc-id.pt
+id: 192 www.iccais.tech
+id: 193 
+id: 194 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 195 http://conferences.cis.umac.mo/icde2019/
+id: 196 http://www.mmsys2019.org/
+id: 197 http://scdm.cloud/
+id: 198 
+id: 199 https://userpages.umbc.edu/~jianwu/BPOD/
+id: 200 http://bigdat2019.irdta.eu/
+id: 201 https://sites.google.com/view/wristsense2019
+id: 202 https://americancse.org/events/csci2018/Symposiums
+id: 203 https://www.ieee-icsc.org/
+id: 204 https://privacyforum.eu
+id: 205 http://vldb.org/2019/?call-for-research-track
+id: 206 http://www.ijist.net/ICSENT2018/
+id: 207 http://conferences.computer.org/services/2019/
+id: 208 http://scdm.cloud/
+id: 209 http://www.cognitus.fr/BDCSIntell2018/
+id: 210 
+id: 211 http://www.cs.put.poznan.pl/events/DOLAP2019.html
+id: 212 http://www.icaart.org/
+id: 213 http://www.biostec.org/
+id: 214 http://www.semantic-explainability.com/
+id: 215 https://bigvis.imsi.athenarc.gr/bigvis2019
+id: 216 https://bpm2019.ai.wu.ac.at/?page_id=238
+id: 217 http://www.servicesciencesociety.org.au/sitepages/assri2018.html
+id: 218 http://www.petrinets2019.de/acsd-2019/
+id: 219 http://dbdmg.polito.it/darli-ap2019/
+id: 220 www.cogsima2019.org
+id: 221 http://www.smart-world.org/2019/atc
+id: 222 http://dbdmg.polito.it/darli-ap2019
+id: 223 http://lata2019.irdta.eu/
+id: 224 http://www.smart-world.org/2019/iop/
+id: 225 http://www.inf.ufrgs.br/er2019
+id: 226 http://www.cibsecuba2019.com
+id: 227 http://bigdat2019.irdta.eu/
+id: 228 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 229 
+id: 230 http://cs-conferences.acadiau.ca/fnc-19/
+id: 231 http://iotbds.org/
+id: 232 
+id: 233 
+id: 234 https://www.um.org/umap2019/
+id: 235 http://www.pakdd2019.org
+id: 236 http://www.servicesciencesociety.org.au/sitepages/assri2018.html
+id: 237 http://ias.huji.ac.il/CSE3
+id: 238 http://icgse.org/
+id: 239 http://i2mtc2019.ieee-ims.org/
+id: 240 http://tpnc2018.irdta.eu/
+id: 241 http://iui.acm.org/2019/
+id: 242 http://iui.acm.org/2019/
+id: 243 https://sites.google.com/view/wristsense2019
+id: 244 
+id: 245 http://www.fqas2019.units.it/
+id: 246 https://www.caise19.it
+id: 247 https://www.caise19.it
+id: 248 www.uhasselt.be/dbdbd2018
+id: 249 http://akbc.ws
+id: 250 
+id: 251 http://conferences.cis.umac.mo/icde2019/
+id: 252 http://icaiic.org/
+id: 253 https://conf.researchr.org/home/etaps-2019
+id: 254 http://www.ir.disco.unimib.it/ai4bigdata19
+id: 255 
+id: 256 http://www.datastories.org/bmda19/
+id: 257 http://www.discotec.org/2019/
+id: 258 http://robotic2019.irdta.eu/
+id: 259 
+id: 260 http://lata2019.irdta.eu/
+id: 261 https://bpm.dfki.de/mobis-challenge/
+id: 262 http://vmbo2019.blogs.dsv.su.se/
+id: 263 https://nms.kcl.ac.uk/informatics/events/LSD&LAW19/
+id: 264 http://www.icnaam.org
+id: 265 https://mecst.sciencesconf.org/
+id: 266 https://jelia2019.mat.unical.it/
+id: 267 https://sigmod2019.org/
+id: 268 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 269 http://www.percom.org/
+id: 270 http://eusflat2019.cz/special_sessions.html
+id: 271 
+id: 272 http://www.servicesciencesociety.org.au/sitepages/assri2018.html
+id: 273 http://cs-conferences.acadiau.ca/ant-19/
+id: 274 http://wfiot2019.iot.ieee.org
+id: 275 http://dbdmg.polito.it/darli-ap2019/
+id: 276  http://www.inf.unibz.it/~fpersia/smc19/index.html
+id: 277 http://www.semantic-explainability.com/
+id: 278 http://alcob2019.irdta.eu/
+id: 279 http://www.platcon.org/
+id: 280 http://www.platcon.org/
+id: 281 http://computing.du.se/quat/quat2018/
+id: 282 https://scfab.github.io/2019/
+id: 283 https://www.dssr2019.unimib.it/
+id: 284 http://www.iike.science/ 
+id: 285 http://www.sacmat.org/
+id: 286 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 287 http://sociocom.jp/~event/uistda2019/
+id: 288 
+id: 289 http://icwe2019.webengineering.org/
+id: 290 https://www.comp.hkbu.edu.hk/mdm2019/cfitp.php
+id: 291 http://icws.org/2019/
+id: 292 http://www.thecloudcomputing.org/
+id: 293 
+id: 294 https://sites.google.com/view/wristsense2019
+id: 295 http://edbticdt2019.inesc-id.pt/
+id: 296 http://www.mmsys2019.org/
+id: 297 http://works.cs.cardiff.ac.uk/
+id: 298 http://edbticdt2019.inesc-id.pt/
+id: 299 https://blockchain.comp.hkbu.edu.hk/blockdm2019/
+id: 300 NHSBHJQL9Y
+id: 301 http://closer.scitevents.org
+id: 302 http://www.iceis.org/
+id: 303 http://www.prg.nii.ac.jp/projects/biscuits/second-workshop/
+id: 304 http://bigdat2019.irdta.eu/
+id: 305 https://btw.informatik.uni-rostock.de/index.php/en/workshops/nodmc
+id: 306 http://robotic2019.irdta.eu/
+id: 307 http://facweb.cs.depaul.edu/research/vc/ICDM18/index.html
+id: 308 www.uhasselt.be/dbdbd2018
+id: 309 https://smartcitytrack.wordpress.com/
+id: 310 https://www.aten.tn/ICDEc2019/
+id: 311 
+id: 312 http://www.ai1000.org/2019/index.html
+id: 313 https://www.comp.hkbu.edu.hk/mdm2019/cfw.php
+id: 314 http://www.worlditcongress.org/2019
+id: 315 
+id: 316  http://ccgrid2019.ucy.ac.cy/
+id: 317 http://iwpe.info/ 
+id: 318 https://informationliteracy.eu/conference/
+id: 319 http://www.adda-association.org/mln/Home.html
+id: 320 http://icwe2019.webengineering.org/
+id: 321 http://iotbds.org/
+id: 322 https://cidas.iasbs.ac.ir
+id: 323 http://www.is-conf.org/
+id: 324 https://sds2019.ch/
+id: 325 http://cci.drexel.edu/bigdata/bigdata2018/index.html
+id: 326 http://lut.fi/ejc 
+id: 327 
+id: 328 http://www.business.hku.hk/paisi/2019/
+id: 329 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 330 www.ieee-mipr.org
+id: 331 https://www.dtic.ua.es/~jgarcia/IWINAC2019/
+id: 332 http://lata2019.irdta.eu/
+id: 333 http://conferences.cis.umac.mo/icde2019/?page_id=306
+id: 334 http://asonam.cpsc.ucalgary.ca/2019/
+id: 335 
+id: 336 https://www.um.org/umap2019/
+id: 337 
+id: 338 https://uta.engineering/conferences/bi-2018/
+id: 339 
+id: 340 http://www.public.asu.edu/~skbansa2/sdi2019.html
+id: 341 
+id: 342 
+id: 343 http://raicom-2018.smartgentpt.com/
+id: 344 http://nelog-2018.smartgentpt.com/
+id: 345 http://www.comp.hkbu.edu.hk/mdm2019/
+id: 346 http://bigdat2019.irdta.eu/
+id: 347 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 348 www.iccais.tech
+id: 349 http://www.cip.ifi.lmu.de/~schubert/EDML/
+id: 350 https://www.um.org/umap2019/
+id: 351 https://dasfaa2019.eng.cmu.ac.th/
+id: 352 http://www.datastories.org/bmda19/
+id: 353 http://pike.psu.edu/fend19/
+id: 354 http://robotic2019.irdta.eu/
+id: 355 http://ecs.victoria.ac.nz/Events/ECSCC2019/WebHome
+id: 356 http://wise-conferences.org/CARS-BDA/CARS-BDA.html
+id: 357 https://db.cs.pitt.edu/smdb2019
+id: 358 https://taskintelligence.github.io/WSDM2019-Workshop/
+id: 359 http://icws.org/2019/
+id: 360 http://www.thecloudcomputing.org/
+id: 361 https://sites.google.com/view/wristsense2019
+id: 362 https://sites.google.com/view/wsdm19wisc/home
+id: 363 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 364 https://www.caise19.it/call-for-tutorials/
+id: 365 http://cs-conferences.acadiau.ca/ant-19/
+id: 366 http://www.dbis.rwth-aachen.de/DSI4
+id: 367 http://sites.ieee.org/fuzzieee-2019/
+id: 368 http://sites.ieee.org/fuzzieee-2019/
+id: 369 http://bit.do/CyberSec2018
+id: 370 www.aidm-conf.org
+id: 371 https://wisec19.fiu.edu/
+id: 372 https://sigmod2019.org/student_rs_competition
+id: 373 http://icac2019.cs.umu.se
+id: 374 http://saso2019.cs.umu.se
+id: 375 https://sites.google.com/view/damon2019/
+id: 376 https://uta.engineering/conferences/bi-2018/
+id: 377 http://www.ieeesose.net
+id: 378 http://sigmod2019.org
+id: 379 http://conferences.cis.umac.mo/icde2019
+id: 380 https://iscram2019.webs.upv.es/
+id: 381 http://www.cryblock.org
+id: 382 http://w2gis2019.web.nitech.ac.jp
+id: 383 https://www.caise19.it
+id: 384 http://www.icaart.org/NLPinAI.aspx
+id: 385 
+id: 386 http://www.its-conf.org/
+id: 387 http://ccgrid2019.ucy.ac.cy/
+id: 388 http://misarn2019.nws.cs.unibo.it
+id: 389 http://www.wistp.org/
+id: 390 
+id: 391 http://rcis-conf.com/
+id: 392 https://sites.google.com/view/esida2019
+id: 393 http://iwbigdatacity.org/
+id: 394 http://conferences.cis.umac.mo/icde2019
+id: 395 https://www.emmsad.org/
+id: 396 http://wsdm-conference.org/2019/
+id: 397 http://i2mtc2019.ieee-ims.org/
+id: 398 www.ai4hb2e.icar.cnr.it
+id: 399 http://amw2019.uc.edu.py/
+id: 400 http://alcob2019.irdta.eu/
+id: 401 https://bpm2019.ai.wu.ac.at/?page_id=238
+id: 402 http://icws.org/2019/
+id: 403 http://conferences.cis.umac.mo/icde2019/
+id: 404 The 3rd International Workshop on Graph Data Management and Analysis
+id: 405 https://www.bigdata.vestforsk.no/news-1/call-for-papers-international-workshop-on-advance-technologies-for-first-responders
+id: 406 http://eusflat2019.cz/index.html
+id: 407 https://btw.informatik.uni-rostock.de/index.php/en/workshops/nodmc
+id: 408 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 409 https://www.um.org/umap2019/
+id: 410 https://networking.ifip.org/2019/
+id: 411 https://staf2019.win.tue.nl/events/ecmfa19/
+id: 412 
+id: 413 https://jelia2019.mat.unical.it/
+id: 414 https://scfab.github.io/2019/
+id: 415 http://atc.udg.edu/CITS2019/
+id: 416 https://infrahealth.eusset.eu/
+id: 417 http://bigdat2019.irdta.eu/
+id: 418 http://www.thecloudcomputing.org/
+id: 419 http://www.thecloudcomputing.org/
+id: 420 http://vldb.org/2019/?call-for-research-track
+id: 421 http://www.iike.science/
+id: 422 http://robotic2019.irdta.eu/
+id: 423 http://www.scs-europe.net/conf/ecms2019/
+id: 424  https://iscram2019.webs.upv.es/
+id: 425 Philippines
+id: 426 http://deem-workshop.org/
+id: 427 http://www.sacmat.org/
+id: 428 http://confsys.encs.concordia.ca/IDEAS/ideas19/ideas19.php
+id: 429 http://www.semantic-explainability.com/
+id: 430 http://sigmod2019.org/
+id: 431 
+id: 432 http://www.ic-si.org
+id: 433 http://dmbd2019.ic-si.org
+id: 434 http://edbticdt2019.inesc-id.pt/
+id: 435 http://sociocom.jp/~event/uistda2019/
+id: 436 https://jelia2019.mat.unical.it/
+id: 437 http://cs-conferences.acadiau.ca/ant-19/
+id: 438 http://cs-conferences.acadiau.ca/mobispc-19/
+id: 439 http://www.fqas2019.units.it/
+id: 440 http://www.ieeesose.net
+id: 441 http://www.ict4ageingwell.org/
+id: 442 http://www.smartgreens.org/
+id: 443 http://csee.hnu.edu.cn/hpcc2019/
+id: 444 
+id: 445 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 446 https://crow.org.nz/Trustcom2019
+id: 447 http://bit.do/EECEA2019
+id: 448 
+id: 449 http://conferences.cis.umac.mo/icde2019/
+id: 450 http://alcob2019.irdta.eu/
+id: 451 https://bigvis.imsi.athenarc.gr/bigvis2019
+id: 452 http://nvmw.ucsd.edu/
+id: 453 http://ieaaie2019.ist.tugraz.at/
+id: 454 
+id: 455 http://cyprusconferences.org/sofsem2020/
+id: 456 http://icaiic.org/
+id: 457 
+id: 458 https://robonaut.jsc.nasa.gov/R2/pages/nfm2019.html
+id: 459 http://db.cs.pitt.edu/smdb2019/
+id: 460 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 461 http://vldb.org/2019/?call-for-tutorials
+id: 462 mipr.sigappfr.org/19
+id: 463 http://blockchain1000.org/2019/index.html
+id: 464 http://thescc.org/2019/cfp.html
+id: 465 http://ccgrid2019.ucy.ac.cy/
+id: 466 http://sunbelt2019.ca
+id: 467 http://iswc2019.semanticweb.org/
+id: 468 http://csee.hnu.edu.cn/hpcc2019/
+id: 469 https://sites.google.com/iotcenter.dk/fog-iot
+id: 470 www.cogsima2019.org
+id: 471 www.sds2019.ch
+id: 472 www.sds2019.ch
+id: 473 http://www.iccsa.org
+id: 474 
+id: 475 http://bigdat2019.irdta.eu/
+id: 476 http://www.temporalweb.net/
+id: 477 http://icws.org/2019/
+id: 478 http://www.thecloudcomputing.org/
+id: 479 https://sites.google.com/view/fuzzystreams
+id: 480 http://www.ict4s.fi
+id: 481 http://robotic2019.irdta.eu/
+id: 482 http://icpmconference.org
+id: 483 https://db.cs.pitt.edu/smdb2019/#
+id: 484 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 485 https://hud-cs-research.github.io/iupt2019/
+id: 486 https://newnets2019.github.io/
+id: 487 https://scfab.github.io/2019/
+id: 488 http://zeus2019.org/
+id: 489 https://lsgda.github.io/
+id: 490 https://rsbd2019.wordpress.com
+id: 491 http://research.nii.ac.jp/ntcir/evia2019/
+id: 492 http://mitdbg.github.io/nedbday/2019/
+id: 493 https://rsbd2019.wordpress.com
+id: 494 
+id: 495 http://www.worlditcongress.org/2019
+id: 496 http://www.dbis.rwth-aachen.de/DSI4
+id: 497 http://debs2019.org
+id: 498 http://www.enase.org
+id: 499 http://www.femib.scitevents.org/
+id: 500 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 501 
+id: 502 https://www.comp.hkbu.edu.hk/mdm2019/cfitp.php
+id: 503 http://idt-19.kesinternational.org/cmsISdisplay.php
+id: 504 
+id: 505 
+id: 506 https://www.um.org/umap2019/
+id: 507 http://www.icaart.org/NLPinAI.aspx
+id: 508 https://msmworkshop.github.io/
+id: 509 http://sociocom.jp/~event/uistda2019/
+id: 510 http://ccgrid2019.ucy.ac.cy/
+id: 511 http://alcob2019.irdta.eu/
+id: 512 https://www.um.org/umap2019/
+id: 513 toth.condillac.org/ttm-2019
+id: 514 https://aw4city2019.wordpress.com
+id: 515 
+id: 516 http://dbdmg.polito.it/darli-ap2019/
+id: 517 http://www.complexis.org/
+id: 518 http://cyber-science.org/2019/cbdcom/
+id: 519 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 520 
+id: 521 
+id: 522 
+id: 523 
+id: 524 http://somepeas.di.uniroma1.it/somepeas-ws2019.html
+id: 525 http://www.petrinets2019.de/call-for-papers/
+id: 526 http://bigdat2019.irdta.eu/
+id: 527 www.cbms2019.org
+id: 528 https://www.um.org/umap2019/
+id: 529 http://www.datastories.org/bmda19/BMDA19.html
+id: 530 http://www.petrinets2019.de/acsd-2019/
+id: 531 http://misarn2019.nws.cs.unibo.it
+id: 532 
+id: 533 
+id: 534 http://robotic2019.irdta.eu/
+id: 535 
+id: 536 https://dhere.de/locweb/locweb2019/
+id: 537 http://www.pakdd2019.org
+id: 538  Call For Papers: 1st International Workshop on Software Engineering for Healthcare (SEH) at the International Conference on Software Engineering (ICSE)  https://tinyurl.com/seh2019   IMPORTANT DATES Submission deadline: Feb. 1, 2019  Notification: Mar. 1, 2019  Camera-ready copy: Mar. 15, 2019  Workshop date: May 27, 2019   SCOPE  Healthcare systems in many countries are leveraging emerging technologies (e.g., cloud computing, mobile apps, data science, biosensors, and wearable devices) and mod
+id: 539 https://www.comp.hkbu.edu.hk/mdm2019/cfphdc.php
+id: 540 www.sds2019.ch
+id: 541 
+id: 542 http://dbdmg.polito.it/darli-ap2019/
+id: 543 http://fates19.isti.cnr.it/
+id: 544 
+id: 545 https://www.southerndatascience.com/
+id: 546 https://www.comp.hkbu.edu.hk/mdm2019
+id: 547 https://www.comp.hkbu.edu.hk/mdm2019
+id: 548 http://www.carch.ac.cn/~ictdb/HardBD-Active-2019
+id: 549 http://cs.tju.edu.cn/faculty/zhangxiaowang/gdma2019
+id: 550 https://informationliteracy.eu/conference/
+id: 551 http://csee.hnu.edu.cn/hpcc2019/
+id: 552 https://blockchain-conf.github.io/
+id: 553 
+id: 554 http://sociocom.jp/~event/uistda2019/
+id: 555 https://www.um.org/umap2019/
+id: 556 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 557 https://rsbd2019.wordpress.com
+id: 558 http://www.spaccs.org/trustdata2019/
+id: 559 https://www.um.org/umap2019/
+id: 560 www.iccais.tech
+id: 561 
+id: 562 
+id: 563 http://icwe2019.webengineering.org/
+id: 564 https://www.comp.hkbu.edu.hk/mdm2019/
+id: 565 http://lut.fi/ejc
+id: 566 https://cps-iotbench2019.ethz.ch/
+id: 567 https://sites.google.com/view/winds2019
+id: 568 http://www.is-conf.org/
+id: 569 http://www.sacmat.org/
+id: 570 http://alcob2019.irdta.eu/
+id: 571 http://promisedata.org/raise/2019/
+id: 572 http://www.cloudbus.org/fog/icfec2019/
+id: 573 https://alammehwish.github.io/dl4kg-eswc/
+id: 574 https://sites.google.com/uncc.edu/tapp-2019/home
+id: 575 http://research.nii.ac.jp/decor/decor2019.html
+id: 576 http://www.datastories.org/bmda19/
+id: 577 https://dc2s2.github.io/2019/
+id: 578 https://dc2s2.github.io/2019/
+id: 579 https://www.ou.nl/web/cserc
+id: 580 
+id: 581 http://www.ficloud.org/innovate-data-2019/
+id: 582 http://csee.hnu.edu.cn/hpcc2019/
+id: 583 https://adbis2019.um.si
+id: 584 https://ircdl2019.isti.cnr.it/?page_id=537
+id: 585 http://iswc2019.semanticweb.org/
+id: 586 http://iswc2019.semanticweb.org/
+id: 587 http://inforsid.fr/Paris2019/
+id: 588 
+id: 589 http://bigdat2019.irdta.eu/

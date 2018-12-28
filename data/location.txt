@@ -1,0 +1,586 @@
+id: 0 Antwerp Belgium 
+id: 1 Larnaca Cyprus 
+id: 2  
+id: 3 Brussels Belgium 
+id: 4 Saint Petersburg Russia 
+id: 5 Cyprus 
+id: 6  
+id: 7 Naples Italy 
+id: 8 Seattle WA USA 
+id: 9  
+id: 10 Cyprus 
+id: 11 uk 
+id: 12  
+id: 13 Seattle WA USA 
+id: 14 Larnaca Cyprus 
+id: 15 Los Angeles CA USA 
+id: 16 Honolulu Hawaii USA 
+id: 17 Los Angeles California USA 
+id: 18 Turin Italy Centro Congressi Lingotto 
+id: 19 Systems Portugal 
+id: 20 Setubal Portugal 
+id: 21 Cyprus 
+id: 22 Cyprus 
+id: 23 Tunisia 
+id: 24 Nicosia Cyprus 
+id: 25 Madrid Spain 
+id: 26 Zanjan Iran 
+id: 27 Casablanca MOROCCO 
+id: 28  
+id: 29  
+id: 30  
+id: 31 South 
+id: 32 Setubal Portugal 
+id: 33 Beja Algeria 
+id: 34 Cyprus 
+id: 35 Cyprus 
+id: 36 Ph 
+id: 37 China 
+id: 38  
+id: 39  
+id: 40  
+id: 41 ISEC India 
+id: 42  
+id: 43 Beja Algeria 
+id: 44 Casablanca MOROCCO 
+id: 45 Saint Petersburg Russia 
+id: 46 Bangalore India 
+id: 47  
+id: 48 Catania Italy 
+id: 49 US 
+id: 50 Japan 
+id: 51 Japan 
+id: 52 Larnaca Cyprus 
+id: 53 Antwerp Belgium 
+id: 54  
+id: 55 Netherlands 
+id: 56 Technologies Leuven Belgium 
+id: 57 Leuven Belgium 
+id: 58 Seattle WA USA 
+id: 59  
+id: 60 Brussels Belgium 
+id: 61 Texas Denton TX United 
+id: 62 Cambridge United 
+id: 63 Ontologies Madrid Spain 
+id: 64 Marburg Germany 
+id: 65 Brussels Belgium 
+id: 66 Sarasota Florida USA 
+id: 67 Portugal 
+id: 68 Sweden 
+id: 69  
+id: 70 US 
+id: 71  
+id: 72 China 
+id: 73 Netherlands 
+id: 74 Glasgow UK 
+id: 75 Saint Petersburg Russia 
+id: 76 Acadia Dalhousie Universities FNC 
+id: 77 Melbourne Australia 
+id: 78 Melbourne Australia 
+id: 79 US 
+id: 80 Rende Italy 
+id: 81 Casablanca MOROCCO 
+id: 82 University City Hotel Philadelphia PA USA 
+id: 83 University City Hotel Philadelphia PA USA 
+id: 84  
+id: 85 China 
+id: 86  
+id: 87 Prague Czech 
+id: 88 Madrid Spain 
+id: 89  
+id: 90  
+id: 91  
+id: 92 Macau China 
+id: 93 Belgium 
+id: 94 Lisbon Portugal 
+id: 95  
+id: 96 Libraries CNR Pisa Italy 
+id: 97 Amsterdam Netherlands 
+id: 98 Prague Czech 
+id: 99 Seattle WA USA 
+id: 100 Cambridge United 
+id: 101 US 
+id: 102 Okinawa Japan 
+id: 103 Leuven Belgium 
+id: 104  
+id: 105  
+id: 106 Casablanca MOROCCO 
+id: 107 Kuala Lumpur Malaysia 
+id: 108 Xian China 
+id: 109 Saint Petersburg Russia 
+id: 110 Xian China 
+id: 111 Sweden 
+id: 112 Japan 
+id: 113 Brussels Belgium 
+id: 114  
+id: 115 Pinto Brazil 
+id: 116 Newport Beach CA USA 
+id: 117  
+id: 118 Seattle WA USA 
+id: 119 Japan 
+id: 120  
+id: 121  
+id: 122 Seattle WA USA 
+id: 123 Libraries CNR Pisa Italy 
+id: 124  
+id: 125 Naples Italy 
+id: 126 Cambridge United 
+id: 127 Russia 
+id: 128 Mexico 
+id: 129 Japan 
+id: 130 Brussels Belgium 
+id: 131 Marrakesh Morocco 
+id: 132 Ph 
+id: 133 Xian China 
+id: 134 Saint Petersburg Russia 
+id: 135 Xian China 
+id: 136 Sweden 
+id: 137 Japan 
+id: 138 Brussels Belgium 
+id: 139  
+id: 140 Pinto Brazil 
+id: 141 Newport Beach CA USA 
+id: 142  
+id: 143 Seattle WA USA 
+id: 144 Japan 
+id: 145  
+id: 146  
+id: 147 Seattle WA USA 
+id: 148 Libraries CNR Pisa Italy 
+id: 149  
+id: 150 Naples Italy 
+id: 151 Cambridge United 
+id: 152 Russia 
+id: 153 Mexico 
+id: 154 Japan 
+id: 155 Brussels Belgium 
+id: 156 Marrakesh Morocco 
+id: 157 Ph 
+id: 158 Lisbon Portugal 
+id: 159 Lisbon Portugal 
+id: 160 Seattle WA USA 
+id: 161 US 
+id: 162 Seoul Korea 
+id: 163 Seoul Korea 
+id: 164 South 
+id: 165 US 
+id: 166 China 
+id: 167 Atlanta USA 
+id: 168 JAPAN 
+id: 169  
+id: 170 Saint Petersburg Russia 
+id: 171 Malta 
+id: 172 South 
+id: 173 Macau China 
+id: 174 US 
+id: 175  
+id: 176 Cambridge United 
+id: 177 China 
+id: 178 Japan 
+id: 179  
+id: 180  
+id: 181 Italy 
+id: 182 Libraries CNR Pisa Italy 
+id: 183  
+id: 184 Sciences Quaid-i-Azam University Islamabad Pakistan 
+id: 185 Seattle WA USA 
+id: 186 Lisbon Portugal 
+id: 187 Prague Czech 
+id: 188  
+id: 189 Stanford University Palo Alto California USA 
+id: 190  
+id: 191 Prague Czech 
+id: 192 Lisbon Portugal 
+id: 193 United 
+id: 194 Seattle WA USA 
+id: 195  
+id: 196 China 
+id: 197 Auckland New 
+id: 198  
+id: 199 Germany 
+id: 200 Prague Czech 
+id: 201 Italy 
+id: 202  
+id: 203 Saint Petersburg Russia 
+id: 204 Leuven Belgium 
+id: 205 Larnaca Cyprus 
+id: 206 USA 
+id: 207  
+id: 208  
+id: 209 Lisbon Portugal 
+id: 210 Riyadh Saudi 
+id: 211 Lisbon Portugal 
+id: 212 Libraries CNR Pisa Italy 
+id: 213 US 
+id: 214 University Turkey 
+id: 215  
+id: 216 France 
+id: 217 Seattle WA USA 
+id: 218 Cambridge United 
+id: 219 Japan 
+id: 220 Las Vegas USA 
+id: 221  
+id: 222  
+id: 223 Los Angeles California USA 
+id: 224 Tunisia 
+id: 225 Italy 
+id: 226  
+id: 227 Beirut Lebanon 
+id: 228 Bay San Francisco California USA 
+id: 229 Lisbon Portugal 
+id: 230 Prague Czech 
+id: 231 Prague Czech 
+id: 232 Newport Beach California USA 
+id: 233 Lisbon Portugal 
+id: 234 Vienna Austria 
+id: 235 Australia Australia 
+id: 236 ON Aachen Germany 
+id: 237 Lisbon Portugal 
+id: 238 Las Vegas NV USA 
+id: 239 Leicester UK 
+id: 240 Lisbon Portugal 
+id: 241 Saint Petersburg Russia 
+id: 242 Leicester UK 
+id: 243  
+id: 244 Cuba 
+id: 245 Cambridge United 
+id: 246 Libraries CNR Pisa Italy 
+id: 247 Systems and Technologies Cairo Egypt 
+id: 248 Acadia Dalhousie Universities FNC 
+id: 249 Greece 
+id: 250 Avila Spain 
+id: 251 Larnaca Cyprus 
+id: 252 Larnaca Cyprus 
+id: 253 China 
+id: 254 Australia Australia 
+id: 255  
+id: 256 Canada 
+id: 257 Auckland New 
+id: 258 Dublin Ireland 
+id: 259 Los Angeles CA USA 
+id: 260  
+id: 261 Japan 
+id: 262 Brazil 
+id: 263 Italy 
+id: 264 Rome Italy 
+id: 265 Rome Italy 
+id: 266 Belgium 
+id: 267 Grenoble France 
+id: 268  
+id: 269 US 
+id: 270 Okinawa Japan 
+id: 271 Czechia 
+id: 272 Sarasota Florida USA 
+id: 273  
+id: 274 Lisbon Portugal 
+id: 275 Denmark 
+id: 276 Bucharest Romania 
+id: 277 Systems and Technologies Cairo Egypt 
+id: 278 Saint Petersburg Russia 
+id: 279 Siegen Germany 
+id: 280 Sweden 
+id: 281 London UK 
+id: 282 Greece 
+id: 283  
+id: 284 Rende Italy 
+id: 285 Netherlands 
+id: 286 Libraries CNR Pisa Italy 
+id: 287 Japan 
+id: 288  
+id: 289 Auckland New 
+id: 290 Australia Australia 
+id: 291 Leuven Belgium 
+id: 292 Limerick Ireland 
+id: 293 Lisbon Portugal 
+id: 294 Newport Beach California USA 
+id: 295 Newport Beach California USA 
+id: 296 Berkeley USA 
+id: 297 Korea 
+id: 298 Korea 
+id: 299 Song Dalarna University Sweden 
+id: 300  
+id: 301  
+id: 302 Newport Beach CA USA 
+id: 303 US 
+id: 304 Libraries CNR Pisa Italy 
+id: 305 Japan 
+id: 306 Systems and Technologies Cairo Egypt 
+id: 307 South 
+id: 308 Aalborg University Denmark 
+id: 309 San Diego USA International Conference on 
+id: 310 San Diego USA 
+id: 311 Acadia Dalhousie Universities FNC 
+id: 312 Japan 
+id: 313  
+id: 314 University Turkey 
+id: 315  
+id: 316 Lisbon Portugal 
+id: 317  
+id: 318 Saint Joseph University Philadelphia PA USA 
+id: 319 Greece 
+id: 320 Setubal Portugal 
+id: 321 Japan 
+id: 322 Cambridge United 
+id: 323 Germany 
+id: 324 Bucharest Romania 
+id: 325 Singapore 
+id: 326 Belgium 
+id: 327 School of Government Dubai United 
+id: 328  
+id: 329  
+id: 330 San Diego USA 
+id: 331 Hara Osaka University Japan 
+id: 332 Korea 
+id: 333 Larnaca Cyprus 
+id: 334 Larnaca Cyprus 
+id: 335  
+id: 336 Germany 
+id: 337 Paris France 
+id: 338 South 
+id: 339 Greece 
+id: 340 Zanjan Iran 
+id: 341 Netherlands 
+id: 342 Bern Switzerland 
+id: 343  
+id: 344 Lappeenranta Finland 
+id: 345 Larnaca Cyprus 
+id: 346 China 
+id: 347 Libraries CNR Pisa Italy 
+id: 348  
+id: 349 Processing Almeria Spain 
+id: 350 Saint Petersburg Russia 
+id: 351  
+id: 352 Vancouver Canada 
+id: 353 Wyoming US 
+id: 354 Larnaca Cyprus 
+id: 355 Russia 
+id: 356 Arlington Texas USA 
+id: 357 Systems and Technologies Cairo Egypt 
+id: 358  
+id: 359  
+id: 360 Bay San Francisco California USA 
+id: 361 Portugal 
+id: 362 Portugal 
+id: 363 Aalborg University Denmark 
+id: 364 Cambridge United 
+id: 365 Libraries CNR Pisa Italy 
+id: 366 Riyadh Saudi 
+id: 367 SIAM 
+id: 368 Larnaca Cyprus 
+id: 369 China Jun Miyazaki Tokyo 
+id: 370 Lisbon Portugal 
+id: 371 Alberta Canada 
+id: 372 Bucharest Romania 
+id: 373 Wellington New 
+id: 374 Melbourne Australia 
+id: 375 Macau China 
+id: 376 Microsoft US 
+id: 377 San Diego USA 
+id: 378 San Diego USA 
+id: 379 Japan 
+id: 380 Melbourne Australia 
+id: 381 Libraries CNR Pisa Italy 
+id: 382 Rome Italy 
+id: 383 Leuven Belgium 
+id: 384 Lisbon Portugal 
+id: 385  
+id: 386  
+id: 387  
+id: 388  
+id: 389 Miami beach USA 
+id: 390  
+id: 391 Sweden 
+id: 392 Sweden 
+id: 393  
+id: 394 Arlington Texas USA 
+id: 395 Deng Zhejiang University China 
+id: 396 USA 
+id: 397 US 
+id: 398 Valencia Spain 
+id: 399 Paris France 
+id: 400 Japan 
+id: 401 Rome Italy 
+id: 402 Prague Czech 
+id: 403 China 
+id: 404  
+id: 405 Larnaca Cyprus 
+id: 406 Paris France 
+id: 407 Brussels Belgium 
+id: 408 Budapest Hungary 
+id: 409 Belgium 
+id: 410 Analytics Los Angeles USA 
+id: 411 JAPAN 
+id: 412 US 
+id: 413 Rome Italy 
+id: 414 Melbourne Australia 
+id: 415 Auckland New 
+id: 416 Spain 
+id: 417 America 
+id: 418 Berkeley California USA 
+id: 419 Vienna Austria 
+id: 420 San Diego USA 
+id: 421 US 
+id: 422 Chiang Mai Thailand 
+id: 423  
+id: 424 Prague Czech 
+id: 425 Germany 
+id: 426 Libraries CNR Pisa Italy 
+id: 427 Larnaca Cyprus 
+id: 428 Warsaw Poland 
+id: 429 Netherlands 
+id: 430 Systems and Technologies Cairo Egypt 
+id: 431 Rende Italy 
+id: 432  
+id: 433 Beijing China 
+id: 434 Vienna Austria 
+id: 435 Cambridge United 
+id: 436 San Diego USA 
+id: 437 San Diego USA 
+id: 438 Los Angeles California USA 
+id: 439 Newport Beach CA USA 
+id: 440 Bucharest Romania 
+id: 441 Italy 
+id: 442 Valencia Spain 
+id: 443 Manila Philippines 
+id: 444 Amsterdam Netherlands 
+id: 445 US 
+id: 446 Athens Greece 
+id: 447 Newport Beach California USA 
+id: 448 USA 
+id: 449  
+id: 450 Chiang Mai Thailand 
+id: 451 Chiang Mai Thailand 
+id: 452  
+id: 453 Japan 
+id: 454 Rende Italy 
+id: 455 Leuven Belgium 
+id: 456 Acadia Dalhousie Universities 
+id: 457 Italy 
+id: 458 Deng Zhejiang University China 
+id: 459 Hellas 
+id: 460 Germany 
+id: 461 Hunan China 
+id: 462  
+id: 463 Libraries CNR Pisa Italy 
+id: 464 New 
+id: 465 Manila Philippines 
+id: 466 Systems and Technologies Cairo Egypt 
+id: 467 US 
+id: 468 Berkeley California USA 
+id: 469 Lisbon Portugal 
+id: 470  
+id: 471 Graz Austria 
+id: 472 Lee Ajou University South 
+id: 473 Cyprus 
+id: 474 Okinawa Japan 
+id: 475 Marburg Germany 
+id: 476 France 
+id: 477 Macau China 
+id: 478 Libraries CNR Pisa Italy 
+id: 479 Los Angeles California USA 
+id: 480 R Agrawal ITL US 
+id: 481 San Diego USA 
+id: 482 San Diego USA 
+id: 483 Larnaca Cyprus 
+id: 484  
+id: 485 Auckland New 
+id: 486 Hunan China 
+id: 487 Montreal Canada 
+id: 488 Las Vegas NV USA 
+id: 489 Bern Switzerland 
+id: 490 Bern Switzerland 
+id: 491 Saint Petersburg University Saint Petersburg Russia 
+id: 492 Valencia Spain 
+id: 493 Cambridge United 
+id: 494 San Francisco CA USA 
+id: 495 San Diego USA 
+id: 496 San Diego USA 
+id: 497  
+id: 498 Sisu Finland 
+id: 499 Bucharest Romania 
+id: 500 ON Aachen Germany 
+id: 501 Macau China 
+id: 502 Libraries CNR Pisa Italy 
+id: 503 Leuven Belgium 
+id: 504 Limerick Ireland 
+id: 505  
+id: 506 Bayreuth Germany 
+id: 507  
+id: 508  
+id: 509 Tokyo Japan 
+id: 510 England 
+id: 511 Macau China 
+id: 512 Korea 
+id: 513 Korea 
+id: 514 Lisbon Portugal 
+id: 515 Darmstadt Germany 
+id: 516 Research and Technology Hellas 
+id: 517 Papazoglou Tilburg University Netherlands 
+id: 518 Libraries CNR Pisa Italy 
+id: 519 San Francisco CA USA 
+id: 520 Aalborg University Denmark 
+id: 521 Malta 
+id: 522 Systems and Technologies Cairo Egypt 
+id: 523  
+id: 524 Larnaca Cyprus 
+id: 525 Prague Czech 
+id: 526 San Francisco USA 
+id: 527 Japan 
+id: 528 Larnaca Cyprus 
+id: 529 Berkeley California USA 
+id: 530 Larnaca Cyprus 
+id: 531  
+id: 532 US 
+id: 533 Information Systems Sevilla Spain 
+id: 534 Lisbon Portugal 
+id: 535 Pusan National University Korea 
+id: 536 Japan 
+id: 537 Libraries CNR Pisa Italy 
+id: 538 Budapest Hungary 
+id: 539 Budapest Hungary 
+id: 540  
+id: 541  
+id: 542 Cologne Germany 
+id: 543 Concurrency Aachen Germany 
+id: 544 Cambridge United 
+id: 545 Maim Spain 
+id: 546 Larnaca Cyprus 
+id: 547 Lisbon Portugal 
+id: 548 ON Aachen Germany 
+id: 549 Paris France 
+id: 550 Leuven Belgium 
+id: 551 Trinity College Dublin Ireland 
+id: 552 Bucharest Romania 
+id: 553 Trinity College Dublin Ireland 
+id: 554  
+id: 555 Macau China 
+id: 556  
+id: 557 Ph D Forum 
+id: 558 Bern Switzerland 
+id: 559 Larnaca Cyprus 
+id: 560 Lisbon Portugal 
+id: 561 San Francisco CA USA 
+id: 562 Cheema Monash University Australia 
+id: 563  
+id: 564 Singapore Management University Singapore 
+id: 565 Singapore Management University Singapore 
+id: 566 China 
+id: 567 Chiang Mai Thailand 
+id: 568 Germany 
+id: 569 Hunan China 
+id: 570 Toronto Canada 
+id: 571 Systems and Technologies Cairo Egypt 
+id: 572 Japan 
+id: 573 Larnaca Cyprus 
+id: 574 Libraries CNR Pisa Italy 
+id: 575 Macau China 
+id: 576 Atlanta USA 
+id: 577 Larnaca Cyprus 
+id: 578 Riyadh Saudi 
+id: 579 Spain 
+id: 580  
+id: 581 South 
+id: 582 Aalborg University Denmark 
+id: 583 Lappeenranta Finland 
+id: 584 Montreal Canada 
+id: 585 Saint Petersburg Russia 

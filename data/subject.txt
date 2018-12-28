@@ -1,0 +1,590 @@
+id: 0 [CFP] Biomedical & Health Informatics (BHI) workshop
+id: 1 New deadline (Sept. 27): IEEE BigComp 2019 in Kyoto
+id: 2 2019 International Conference on Platform Technology and Service
+id: 3 CFP CIbSE 2019 - 22nd Iberoamerican Conference on Software Engineering
+id: 4 International Workshop on Blockchain Technologies
+id: 5 Data Science for Agriculture and Natural Resource Management (DSANRM2018)
+id: 6 [WORKSHOP](MIPR 2019) IEEE International Conference on Multimedia Information Process and Retrieval
+id: 7 CfP: SWAT4HCLS 2018 - Semantic Web Applications and Tools for Health Care and Life Sciences
+id: 8 Call for Papers: ICFEC 2019, co-located with CCGRID
+id: 9 Call for Papers for Cloud Based Health Informatics Workshop in IISc Bangalore
+id: 10 [WISTP2018]: 12th WISTP International Conference on Information Security Theory and Practice
+id: 11 LATA 2019: 1st call for papers
+id: 12 The 34th ACM Symposium on Applied Computing (SAC 2019): Combined Call for Papers - Last Mile
+id: 13 CfP for the NoDMC Workshop @ BTW 2019, March, Rostock, Germany
+id: 14 CFP: The Third IEEE International Conference on Robotic Computing
+id: 15 CFP: IEEE BigData 2018 Workshop BSMDMA
+id: 16 (IEEE BIBM/CBPBL 2018) WORKSHOP on Computer Based Processes and Algorithms for Biomedicine and Life 
+id: 17 ADON 2018: International Workshop on Anomaly Detection ON the Cloud and the Internet of Things
+id: 18 ICDT 2019 Test-of-Time Award Call for Nominations
+id: 19 CFP: Workshop on Big Data for Cybersecurity (BigCyber 2018), Paper Submission Deadline: October 10
+id: 20 CfP: IEEE 5th International Workshop on Privacy and Security of Big Data (PSBD 2018)
+id: 21 The 27th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2019): First CFP
+id: 22 ACM Intelligent User Interfaces - IUI 2019: Last CFP (Oct 1st, Abstract due)
+id: 23 2019 AAAI International Workshop on Health Intelligence (W3PHIAI 2019)
+id: 24 Call for Papers: PVLDB Volume 12 -  Research Track 
+id: 25 CIKM 2018: Call for participation
+id: 26 5th International Conference on Vehicle Technology and Intelligent Transport Systems - VEHITS 2019
+id: 27 5th International Conference on Geographical Information Systems Theory, Applications and Management - GISTAM 2019
+id: 28 Final CFP: 2019 ACM SAC Data Mining Track
+id: 29 Final CFP: 2019 ACM SAC WICE Track
+id: 30 Abstract Submission
+id: 31 CFP: 2nd International Workshop on Uncertainty in Cloud Computing (UCC@CloudCom)
+id: 32 IEEE BIBM Workshop on High Performance Bioinformatics and Biomedicine (HiBB 2018)
+id: 33 [CfP] CiDaS 2019, Contemporary Issues in Data Science, The International Conference on
+id: 34 CFP for International Conference on Big Data and Smart Digital Environment 
+id: 35 ISSRE 2018: Call For Participation
+id: 36 Deadline Approaching: 9th ACM Conference on Data and Application Security and Privacy (CODASPY)
+id: 37 BigDat 2019: early registration October 15
+id: 38 CFP: ICWE 2019 - Abstract Submission Deadline 18 January 2019
+id: 39 International Conference on Finance, Economics, Management and IT Business - FEMIB 2019
+id: 40 CALL FOR PAPERS ISKO-Maghreb�2018
+id: 41 TODAY: Last CFP: 2019 ACM SAC DM Track
+id: 42 TODAY: Last CFP: 2019 ACM SAC DM Track
+id: 43 CFP: Second IEEE Human-in-the-loop Methods and Human-Machine Collaboration in Bigdata (HMData 2018)
+id: 44 CFP: ICST 2019
+id: 45 World Congress on Sustainable Technologies (WCST-2018): Call for Submissions!
+id: 46 KLP @ ACM SAC 2019 - FINAL AND LAST SUBMISSION DEADLINE: OCTOBER 3rd!!!
+id: 47 Extended Deadline: ICITST-2018
+id: 48 CFP for ISEC 2019: Innovations in Software Engineering Conference at Pune, India, 14-16 Feb. 2019
+id: 49 CFP: International Workshop on Large Scale Graph Data Analytics (LSGDA) affiliated with ICDE 2019
+id: 50 CALL FOR PAPERS  ISKO-Maghreb�2018
+id: 51 CFP: International Conference on Big Data and Smart Digital Environment
+id: 52 LATA 2019: 1st call for papers
+id: 53 CFP: International Workshop On Analytics For Security In Cyber Physical Systems (ASCPS 2019)
+id: 54 IEEE ICSC 2019 - CFP
+id: 55 ACM MobiHoc 2019 - CALL FOR PAPERS
+id: 56 ICDE 2019: second call for tutorials
+id: 57 Last Call for Papers: 4th International Conference on Electronics and Software Science - JAPAN
+id: 58 Last CFP: 7th International Conference on Informatics and Applications (ICIA2018) - JAPAN
+id: 59 The 27th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2019): Student Grants
+id: 60 CfP: Semantic Web Applications and Tools for Health Care and Life Sciences (SWAT4LS 2018)
+id: 61 Deadline extension: 1st International Workshop on Next Generation Clouds for Extreme Data Analytics 
+id: 62 CFP - 12th IADIS International Conference on Information Systems 2019
+id: 63 CFP: ANT - 2019
+id: 64 cfp: EDI40-2019 (NextGen IoT)
+id: 65 Call for Papers: IEEE BPOD 2018 collocated with IEEE BigData 2018
+id: 66 Call for paper of ICDEc 2019
+id: 67 12th WISTP International Conference on Information Security Theory and Practice
+id: 68 CFP (extended): International Conference on Smart Learning Environments (ICSLE 2019)
+id: 69 BigDat 2019: early registration October 15
+id: 70 The 1st International Workshop on Quality Assurance of Biological and Biomedical Ontologies
+id: 71 Second CFP [Extended]: 24th International Conference on Conceptual Structures (ICCS19)
+id: 72 12th WISTP International Conference on Information Security Theory and Practice
+id: 73 CFP: AI4BigData'19 - Artificial Intelligence for Big Social Data Analysis - Specia Track @ FLAIRS-32
+id: 74 EDBT2019 - one week left to submit abstracts
+id: 75 14th European Computer Science Summit - one week to go
+id: 76 Call for Papers: VIPERC2019
+id: 77 ICDE 2019: Final Call for Research Papers - Second Round
+id: 78 Deadline Approaching: 7th Workshop on Scalable Cloud Data Management
+id: 79 PAKDD 2019 Call for Papers
+id: 80 CFP - 17th International Conference on e-Society 2019
+id: 81 CHIIR 2019 Doctoral Consortium - Call for Participation
+id: 82 LATA 2019: 1st call for papers
+id: 83 CFP: The 14th International Conference on Future Networks and Communications August 19-21, 2019
+id: 84 WSDM19 - The International Workshop on Web-based Information Analysis towards Smart City
+id: 85 WSDM19-WISC CALL FOR PAPER
+id: 86 CFP: IEEE CPS publisher; Int'l Conf on Computational Science & Computational Intelligence (CSCI'18)
+id: 87 JELIA 2019 - First CfP - IJCAI, TPLP publications and Awards
+id: 88 call for papers : International Conference on Big Data and Smart Digital Environment (ICBDSDE�18) 
+id: 89 IEEE CIC 2018 Call for Participation
+id: 90 IEEE CIC 2018 Call for Participation
+id: 91 Pre-ICIS SIGBPS 2018 Workshop on Blockchain and Smart Contract
+id: 92 PAKDD 2019 Call for Workshops [Proposal due date extended to October 16th, 2018]
+id: 93 Deadline Extended: 7th Workshop on Scalable Cloud Data Management at IEEE Big Data 2018
+id: 94 12th International Conference on Health Informatics - HEALTHINF 2019
+id: 95 IEEE BIBM Workshop on High Performance Bioinformatics and Biomedicine (HiBB 2018) - Extended Deadlin
+id: 96 Third IEEE International Workshop on Big Spatial Data
+id: 97 CFP: Workshop on Big Data for Cybersecurity (BigCyber 2018), Paper Submission Deadline: October 10
+id: 98 2nd Annual AT&T Labs Graduate Student Symposium
+id: 99 CFP: 10th Workshop on Self-Managing Database Systems @ ICDE2019 
+id: 100 Dutch-Belgian Database Day 2018, Call for contributions
+id: 101 DOLAP 2019: 3rd Call for Papers
+id: 102 Call for Submissions: World Congress on Internet Security (WorldCIS-2018)
+id: 103 Call for Papers: VIPERC2019
+id: 104 PODS 2019 - Call for Research Papers (2nd Cycle)
+id: 105 CfP: Natural Language Processing in Artificial Intelligence - NLPinAI 2019
+id: 106 Deadline extended: BPOD workshop collocated with IEEE Bigdata 2018
+id: 107 BigDat 2019: early registration October 15
+id: 108 CFP: IEEE CPS publisher; Health Informatics & Medical Systems
+id: 109 ICAIIC 2019 (IEEE, AI Conference, Okinawa, Japan; Due Nov. 1, 2018; SCI, Scopus, EI) [Feb. 11(Mon.) 
+id: 110 CFP of the 2nd International Conference on Emerging Data and Industry 4.0
+id: 111 IEEE ICSC 2019 - Submission Deadline Extended
+id: 112 Final Call for Papers: ICITST-2018
+id: 113 CFE
+id: 114 The 10th International Conference on Computer Science and its Applications 
+id: 115 FutureTech2019 Call for Papers (Springer LNEE indexed by EI and SCOPUS)
+id: 116 LATA 2019: 2nd call for papers
+id: 117 The 13th International Conference on Multimedia and Ubiquitous Engineeri
+id: 118 Call for Workshop Proposals - IEEE EuroS&P 2019
+id: 119 CFP: 17th International Symposium on Web and Wireless Geographical Information Systems
+id: 120 12th WISTP International Conference on Information Security Theory and Practice
+id: 121 Deadline Extended Oct 30, 2018
+id: 122 Call for Papers FLAIRS Special Track: AI for Internet of Things and Fab Labs/Maker Spaces
+id: 123 CFP: The 1st International Workshop on Intelligence & Interaction in Knowledge Engineering (IIKE19)
+id: 124 [Call for Papers][Submission Deadline Extended] The Second (2019) IEEE International Conference on M
+id: 125 Deadline extended: BPOD workshop collocated with IEEE Bigdata 2018
+id: 126 [Call For Papers]: 5th WristSense workshop (IEEE PerCom 2019), Deadline: November 10, 2018
+id: 127 CFP Workshop on Big Data for Cybersecurity (BigCyber 2018) Submission Deadline: October 10 (2 days) 
+id: 128 IEEE Intelligence and Security Informatics (ISI) 2018 - Call for Participation
+id: 129 CFP: IEEE BigData 2018 Workshop BSMDMA
+id: 130 Call for Papers: VIPERC2019
+id: 131 Third IEEE International Workshop on Big Spatial Data (Deadline Extended)
+id: 132 CFP: The Third IEEE International Conference on Robotic Computing
+id: 133 BigDat 2019: early registration October 15
+id: 134 ICCSA 2019: Call For Workshop Proposals
+id: 135 [CFP] IWISC 2019: 4th International Workshop on Interactive and Spatial Computing
+id: 136 Calls: Events in PerCom2019 (Kyoto, Japan)
+id: 137 [WISTP2018]: 12th WISTP International Conference on Information Security Theory and Practice
+id: 138 MEDI'2018: Call for Participation
+id: 139 Deadline Extended: IEEE WS on Human-in-the-loop Methods and Human-Machine Collaboration in Bigdata 
+id: 140 CFP: 3rd edition of the DARLI-AP 2019 workshop in conjunction with EDBT/ICDT 2019
+id: 141 CFP: 3rd edition of the DARLI-AP 2019 workshop in conjunction with EDBT/ICDT 2019
+id: 142 CFP: IEEE BigData 2018 Workshop BSMDMA
+id: 143 ICDE 2019 call for PhD symposium papers
+id: 144 [WIMS2019]: 9th International Conference on Web Intelligence, Mining and Semantics
+id: 145 [WIMS2019]: 9th International Conference on Web Intelligence, Mining and Semantics
+id: 146 CfP: SACLA`2019 (including Data Base / Data Science Education)
+id: 147 Call for Contributions - 24th ACM Symposium on Access Control Models and Technologies (SACMAT 2019)
+id: 148 PAKDD 2019 Call for Papers � Extended Submission Due Date October 17th, 2018
+id: 149 CFP: The 2019 IEEE International Conference on Blockchain (Blockchain-2019)
+id: 150 CFP: IWBigDataCity 2019 (1st Int'l Workshop on Big Data, Cloud, and IoT Technologies for Smart Citi)
+id: 151 CFPs: The 24th International Conference on Database Systems for Advanced Applications (DASFAA'19)
+id: 152 LATA 2019: 2nd call for papers
+id: 153 Last Call: New! Business tickets for OnTheMove Industry Program, Malta, october 2018
+id: 154 ICWE 2019 - Call for Papers & Workshop Proposals
+id: 155 Last Call for Paper: ICDE 2019 Industry and Application Track
+id: 156 CFP: IEEE CPS publisher; Int'l Conf on Computational Science & Computational Intelligence (CSCI'18)
+id: 157 Early bird deadline extended to 16-Oct-2017: ACM SIGSPATIAL 2018, Seattle (WA), 6-9 Nov, 2018
+id: 158 BigDat 2019: early registration October 15
+id: 159 ER 2018 - Last Call for participation
+id: 160 [Call For Papers]: 5th WristSense workshop (IEEE PerCom 2019), Deadline: November 10, 2018
+id: 161 Call for lightning talks and posters
+id: 162 CFP: WACI @ COMSNETS 2019 - Bangalore, India
+id: 163 Call for Papers: 2019 IEEE WORLD CONGRESS ON SERVICES (IEEE SERVICES 2019)
+id: 164 Call for Papers: VIPERC2019 Workshop
+id: 165 Hasso Plattner Insitute Future SOC Lab -- Call for Proposals
+id: 166 Call for participation ICET 2018
+id: 167 CFP: 2nd Workshop on Benchmarking, Performance Tuning and Optimization for Big Data Applications
+id: 168 EDBT/ICDT 2019 3rd Call for Tutorial Proposals
+id: 169 14th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - VISIGRAPP 2019
+id: 170 CFP: NEW Deadline Oct 26 - 13th IEEE International Conference on Semantic Computing
+id: 171 Second CfP - AAAI 2019 Spring Symposium on Combining Machine Learning with Knowledge Engineering
+id: 172 ICDE 2019: Call for TKDE Posters
+id: 173 5th International Conference on Information Systems Security and Privacy - ICISSP 2019
+id: 174 CFP: BigVis 2019 - Big Data Visual Exploration and Analytics Workshop @ EDBT/ICDT
+id: 175 EIDWT-2019 Call for Papers
+id: 176 Deadline extended: BPOD workshop collocated with IEEE Bigdata 2018
+id: 177 NVMW 2019 Call for Presentations
+id: 178 CfP: The 3rd International Workshop on Affective and Sentimental Computing (ASC 2019), Kyoto, Japan
+id: 179 Call for Papers - Special session at I2MTC 2019 - Instrumentation and measurement for ambient intell
+id: 180 Data Scieence and Social Research (DSSR) 2019
+id: 181 CfP for the NoDMC Workshop @ BTW 2019, March, Rostock, Germany
+id: 182 8th International Conference on Pattern Recognition Applications and Methods - ICPRAM 2019
+id: 183 6th Special Session on HPC in Modelling and Simulation - PDP 2019 - Pavia, Italy
+id: 184 FINAL CALL: 7th Workshop on Scalable Cloud Data Management
+id: 185 LATA 2019: 3rd call for papers
+id: 186 Call for workshops: The 2nd International Conference on Emerging Data and Industry 4.0 (EDI40)
+id: 187 CALL FOR PAPERS - IEEE/ACM INT'L SYMPOSIUM ON CLUSTER, CLOUD AND GRID COMPUTING 2019
+id: 188 VLDB 2019 CfP - Industrial, Applications, Experience Track
+id: 189 CFP ACM �ICIST�2019 
+id: 190 RSBD 2019 Call For Papers
+id: 191 EDBT 2019 - Call for short research papers and visionary papers
+id: 192 CFP-2019 2nd International Conference on Computer Applications & Information Security (ICCAIS)
+id: 193 EDBT 2019 - revised call for short research papers and visionary papers
+id: 194 Call for Papers: VIPERC2019
+id: 195 ICDE 2019 final call for tutorial proposals
+id: 196 ACM MMSys'19 - Research Track and Special Sessions (Submission Deadline: Oct. 31, 2018)
+id: 197 FINAL CALL: 7th  Scalable Cloud Data Management Workshop @ IEEE Big Data 2018
+id: 198 NFM 2019 Second Call For Papers- 11th Annual NASA Formal Methods Symposium
+id: 199 Deadline extended: BPOD workshop collocated with IEEE Bigdata 2018
+id: 200 BigDat 2019: early registration November 11
+id: 201 [Call For Papers]: 5th WristSense workshop (IEEE PerCom 2019), Deadline: November 10, 2018
+id: 202 CFP: IEEE CPS publisher; Conf on Cyber Warfare, Cyber Defense, & Cyber Security
+id: 203 Last CFP: IEEE International Conference on Semantic Computing (ICSC 2019)
+id: 204 Annual Privacy Forum (APF) 2019 Call for Papers
+id: 205 Call for Papers: PVLDB Volume 12 -  Research Track 
+id: 206 Abstract Submission
+id: 207 Call for Papers: 2019 IEEE WORLD CONGRESS ON SERVICES (IEEE SERVICES 2019)
+id: 208 EXTENSION: 7th Workshop on Scalable Cloud Data Management
+id: 209 [Deadline extended] - CFP: International Conference on Big Data and Cybersecurity Intelligence
+id: 210 2nd CfP: IEEE International Conference on Decentralized Applications and Infrastructures - Blockchai
+id: 211 DOLAP CfP: submission deadline extended: 5 Nov, 2018
+id: 212 11th International Conference on Agents and Artificial Intelligence - ICAART 2019
+id: 213 12th International Joint Conference on Biomedical Engineering Systems and Technologies - BIOSTEC 2019
+id: 214 1st Workshop on Semantic Explainability (SemEx 2019), co-located with ICSC 2019
+id: 215 CFP: BigVis 2019 -2nd International Workshop on Big Data Visual Exploration and Analytics
+id: 216 BPM 2019 Call for Workshop Proposals
+id: 217 CFP: Second Part of the 7th Australasian Symposium on Service Research and Innovation (ASSRI�18)
+id: 218 Call for Papers and Announcement - ACSD 2019
+id: 219 CFP: 3rd edition of the DARLI-AP 2019 workshop @ EDBT/ICDT 2019
+id: 220 Call for Papers: IEEE CogSIMA 2019 (Las Vegas, 8-11 April)
+id: 221 CFP - The 16th IEEE International Conference on Advanced and Trusted Computing
+id: 222 CFP: 3rd edition of the DARLI-AP 2019 workshop in conjunction with EDBT/ICDT 2019
+id: 223 LATA 2019: 3rd call for papers
+id: 224 CFP: 5th IEEE International Conference on Internet of People (IoP 2019)
+id: 225 38th International Conference on Conceptual Modeling
+id: 226 CFP: CIbSE 2019 - 22nd Iberoamerican Conference on Software Engineering
+id: 227 BigDat 2019: early registration November 11
+id: 228 Call for Papers: VIPERC2019 Workshop
+id: 229 CFP ICIST19
+id: 230 The 14th International Conference on Future Networks and Communications (FNC) -  August 19-21, 2019 
+id: 231 4th International Conference on Internet of Things, Big Data and Security - IoTBDS 2019
+id: 232 MIS4TEL 2019 - Call for Workshop Proposals
+id: 233 The 27th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2019): Second CFP
+id: 234 UMAP 2019: Call for Workshop Proposals
+id: 235 PAKDD 2019 Call for Tutorials
+id: 236 CFP: Second Part of the 7th Australasian Symposium on Service Research and Innovation
+id: 237 Winter School in Computer Science and Engineering on Blockchains and Cryptocurrencies
+id: 238 Call for Papers: ICGSE19 - 14th IEEE/ACM International Conference on Global Software Engineering
+id: 239 Special session at I2MTC 2019 - Instrumentation and measurement for ambient intelligence
+id: 240 TPNC 2018: call for participation
+id: 241 Call for Posters and Demos: ACM IUI 2019
+id: 242 ACM IUI 2019: Student Consortium Call for Papers
+id: 243 [Call For Papers]: 5th WristSense workshop (IEEE PerCom 2019), Deadline: November 10, 2018
+id: 244 [CFP] - IDEAS 2019 - Manaus, Amazonas, Brazil
+id: 245 FQAS 2019: First Call for Contributions (Papers, Sessions, Panels, Tutorials)
+id: 246 CFP: 31st International Conference on Advanced Information Systems Engineering
+id: 247 Call for Workshops: 31st International Conference on Advanced Information Systems Engineering
+id: 248 Dutch-Belgian Database Day 2018, Call for contributions
+id: 249 2nd CFP: AKBC 2019 - Conference on Automated Knowledge Base Construction
+id: 250 IEEE Intelligence and Security Informatics (ISI) 2018 - Call for Participation
+id: 251 ICDE 2019 second call for PhD symposium papers
+id: 252 ICAIIC 2019 (IEEE, AI Conference, Okinawa, Japan; Due - Dec. 1, 2018; SCI, Scopus, EI) 
+id: 253 CfP FASE 2019 :  (Prague, April 8-11, 2019) - 10 days until the abstract submission deadline !!
+id: 254 CFP: AI4BigData'19 - Artificial Intelligence for Big Social Data Analysis - Specia Track @ FLAIRS-32
+id: 255 Symposium on Foundations and Applications of Blockchain, FAB'19
+id: 256 cfp for the 2nd International Workshop on Big Mobility Data Analytics (BMDA), with EDBT/ICDT 2019
+id: 257 [DisCoTec 2019] Joint Call for Papers
+id: 258 Robotic 2019: early registration November 13
+id: 259 CFP ICIST19
+id: 260 LATA 2019: 3rd call for papers
+id: 261 Model-Based Compliance in Information Systems
+id: 262 VMBO 2019 CFPx
+id: 263 London Stringology Days & London Algorithmic Workshop
+id: 264 CfP: Symp. on Adv. Computation and Inform. :: SACINAS-ICNAAM :: Sep23-28, 2019 :: Rhodes, Greece
+id: 265 International Workshop on Microwave Engineering, Communications Systems and Technologies (MECST�2019
+id: 266 JELIA 2019 - 2nd CfP - 1 month left - IJCAI, TPLP, Awards and Prizes
+id: 267 SIGMOD 2019 call for tutorials
+id: 268 Call for Papers: VIPERC2019 Workshop
+id: 269 IEEE PerCom 2019 / CONSOLIDATED CALL FOR PAPERS FOR INDUSTRY TRACK, AFFILIATED EVENTS AND WORKSHOPS
+id: 270 CFP: Evolving and adaptive fuzzy models for data streams @EUSFLAT2019
+id: 271 Deadline extended - Special session at I2MTC 2019 - Instrumentation and measurement for ambient inte
+id: 272 CFP: Second Part of the 7th Australasian Symposium on Service Research and Innovation
+id: 273 ANT 2019 CfP
+id: 274 CFP IEEE World Forum on Internet of Things - Doctoral Symposium 
+id: 275 CFP: 3rd edition of the DARLI-AP 2019 workshop in conjunction with EDBT/ICDT 2019
+id: 276 CFP: Third International Workshop on Semantic Multimedia Computing
+id: 277 2nd CfP: 1st Workshop on Semantic Explainability (SemEx 2019), co-located with ICSC 2019
+id: 278 AlCoB 2019: 1st call for papers
+id: 279 2019 International Conference on Platform Technology and Service
+id: 280 2019 International Conference on Platform Technology and Service
+id: 281 Call for Participation,International Workshop on Data Quality and Trust in Big Data,12Nov2018,Dubai
+id: 282 Call For Papers:  Second Symposium on Foundations and Applications of Blockchain
+id: 283 DSSR 2019 - Call for Papers
+id: 284 2nd CFP: 1st Int. WS on Intelligence & Interaction in Knowledge Engineering (IIKE2019)
+id: 285 Call for Contributions - 24th ACM Symposium on Access Control Models and Technologies (SACMAT 2019)
+id: 286 Call for Papers: VIPERC2019 Workshop
+id: 287 CfP: IUI2019 2nd Workshop on User Interfaces for Spatial and Temporal Data Analysis (UISTDA2019) 
+id: 288 CFP ACM �ICIST�2019
+id: 289 Call for Papers: 19th International Conference on Web Engineering (ICWE 2019)
+id: 290 MDM 2019 - Call for Industry Track Papers
+id: 291  ICWS 2019 Call for Papers
+id: 292  CLOUD 2019 Call for Papers
+id: 293 The 14th International Conference on Future Networks and Communications (FNC) 
+id: 294 [Call For Papers]: 5th WristSense workshop (IEEE PerCom 2019), Deadline Extended: November 26, 2018
+id: 295 EDBT 2019: Call for Demos
+id: 296 ACM MMSys'19 - Research Track and Special Sessions - Final Call
+id: 297 WORKS 2018 - Call for Participation
+id: 298 EDBT/ICDT 2019 Final Call for Tutorial Proposals
+id: 299 CFP: IEEE ICDE Workshop on Blockchain and Data Management (BlockDM 2019)
+id: 300 Bx 2019: 8th International Workshop on Bidirectional Transformations (Deadline: Feb. 19)
+id: 301 9th International Conference on Cloud Computing and Services Science - CLOSER 2019
+id: 302 21st International Conference on Enterprise Information Systems - ICEIS 2019
+id: 303 CFP: Second Workshop on Software Foundations for Data Interoperability (SFDI 2019)
+id: 304 BigDat 2019: early registration November 11
+id: 305 Deadline in 2 weeks: Final CfP for the NoDMC Workshop @ BTW 2019, March, Rostock, Germany  
+id: 306 Robotic 2019: early registration November 13
+id: 307 Call for Participation: 6th Workshop on Data Mining in Biomedical Informatics & Healthcare at ICDM18
+id: 308 Dutch-Belgian Database Day 2018, Call for participation
+id: 309 CfP: dg.o 2019 - TRACK 3. Smart Cities in the age of AI
+id: 310 ICDEc 2019 | Call for papers
+id: 311 [Deadline extended] - 24th International Conference on Database Systems for Advanced Applications
+id: 312 AIMS 2019 Call for Papers 
+id: 313 IEEE MDM 2019 (June 10-13, 2019, Hong Kong) - Call for Workshop Proposals
+id: 314 World IT Congress 2019 Jeju - Call for Papers (50% Papers will be recommended to SCI/E or SCOPUS Jou
+id: 315 CALL FOR PAPERS - IEEE/ACM INT'L SYMPOSIUM ON CLUSTER, CLOUD AND GRID COMPUTING 2019
+id: 316 THE 19TH IEEE/ACM INTERNATIONAL SYMPOSIUM ON CLUSTER, CLOUD AND GRID COMPUTING (IEEE/ACM CCGrid 2019
+id: 317 CFP: Fifth International Workshop on Privacy Engineering (IWPE'19) 
+id: 318 Call for papers: Learning Information Literacy across the Globe (LILG-2019)
+id: 319 MLN 2018: Call for Participation
+id: 320 ICWE 2019 - Call for Papers & Workshop Proposals
+id: 321 4th International Conference on Internet of Things, Big Data and Security - IoTBDS 2019
+id: 322 Last CfP CiDaS 2019, Contemporary Issues in Data Science, The International Conference on
+id: 323 1st CFP extension: 12th IADIS Information Systems 2019
+id: 324 Call for Papers/Participation: 6th Swiss Conference on Data Science (SDS2019)
+id: 325 Call for Participation: IEEE BigData 2018
+id: 326 CFP: EJC2019 (submission due: Jan. 13, 2019), June 3-7, 2019, Lappeenranta, Finland
+id: 327 ACM UMAP 2019: First Call for Tutorial Proposals
+id: 328 CFP: Pacific Asia Workshop on Intelligence and Security Informatics (Macau, Apr 2019)
+id: 329 Call for papers: VIPERC2019 Workshop
+id: 330 [Call for Demo Papers] The Second (2019) IEEE International Conference on M
+id: 331 CFP: IWINAC 2019 Special Session on Machine Learning Methods applied to Big Data Analysis, Processin
+id: 332 LATA 2019: extended submission deadline November 18
+id: 333 ICDE 2019: 2nd Call for TKDE Posters
+id: 334 [ASONAM 2019 in Vancouver, Canada] First Call for Research Papers
+id: 335 DECOR@ICDE2019 Call for Paper
+id: 336 ACM UMAP 2019: First Call for Doctoral Consortium Submissions
+id: 337 CFP TOOLS50+1 : Technology of Object-Oriented Languages and Systems 2019
+id: 338 [Call for Participation] Brain Informatics 2018
+id: 339 CFP ACM �ICIST�2019 
+id: 340 CFP SDI 2019: Workshop on Semantic Data Integration 
+id: 341 CFP: International Workshop on Large Scale Graph Data Analytics (LSGDA) affiliated with ICDE 2019
+id: 342 Deadline Extension: IEEE International Conference on Decentralized Applications and Infrastructures
+id: 343 RAICoM - Recent Advances on Intelligent and Connected Mobility
+id: 344 NeLog - International Conference on Next Generation Logistics
+id: 345 IEEE Conference on Mobile Data Management (IEEE MDM 2019)
+id: 346 BigDat 2019: early registration December 8
+id: 347 Call for Papers: VIPERC2019 Workshop
+id: 348 Action Required: CFP-2019 2nd International Conference on Computer Applications & Information Securi
+id: 349 [CfP] 1st Workshop on Evaluation and Experimental Design in Data Mining and Machine Learning @ SDM
+id: 350 ACM UMAP 2019: Second Call for Workshop Proposals
+id: 351 DASFAA2019 (April 22-25, 2019, Chiang Mai )-Call for Workshop Proposals 
+id: 352 cfp for the 2nd International Workshop on Big Mobility Data Analytics (BMDA), with EDBT/ICDT 2019
+id: 353 CFP: SDM 2019 FEND Workshop
+id: 354 Robotic 2019: early registration December 7
+id: 355 CfP: Special Session: Evolutionary Computation for Service and Cloud Computing (EC-SCC)
+id: 356 CARS-BDA workshop 2019@WSDM
+id: 357 CFP: 10th Workshop on Self-Managing Database Systems @ ICDE2019 
+id: 358 Deadline extended for Task Intelligence Workshop at WSDM 2019
+id: 359 ICWS 2019 Call for Papers
+id: 360 CLOUD 2019 Call for Papers
+id: 361 [Call For Papers]: 5th WristSense workshop (IEEE PerCom 2019), Extended Deadline: November 26, 2018
+id: 362 WSDM19-WISC Deadline Approaching
+id: 363 Call for Papers: VIPERC2019 Workshop
+id: 364 Call for Tutorials @CAiSE'19 - 31th Int. Conference on Advanced Information Systems Engineering
+id: 365 ANT 2019 CfP
+id: 366 CfP: Data Science in Industry 4.0 (EDBT Workshop)
+id: 367 Call for paper FUZZ-IEEE 2019 - Business Processes and Fuzzy Logic (BPFL)
+id: 368 Call for paper FUZZ-IEEE 2019 - Business Processes and Fuzzy Logic (BPFL)
+id: 369 Deadline Today! CyberSec2018 - Morocco
+id: 370 CFP: SIGMOD'19 Workshop on Exploiting AI in Data Management (aiDM'19)
+id: 371 ACM WiSec 2019 Call for Papers
+id: 372 EXTENDED to 11/25: SIGMOD student research competition submissions
+id: 373 ICAC 2019 Call for Papers
+id: 374 SASO 2019 Call for Papers
+id: 375 DaMoN'19 Call for Papers
+id: 376 [Brain Informatics 2018] - Call for Participation
+id: 377 Call for Paper IEEE SOSE 2019
+id: 378 SIGMOD 2019 Industry Track: Deadline (November 29, 2018) approaching
+id: 379 ICDE 2019 Demo Papers Due in Three Days
+id: 380 ISCRAM 2019 (TRACK: Knowledge, Semantics and AI for RISK and CRISIS management) Call for Papers
+id: 381 CFP: INFOCOM Workshop - 2nd Workshop on Cryptocurrencies and Blockchains for Distributed Systems
+id: 382 CFP: 17th International Symposium on Web and Wireless Geographical Information Systems
+id: 383 CFP: 31st International Conference on Advanced Information Systems Engineering
+id: 384 CfP: Natural Language Processing in Artificial Intelligence - NLPinAI 2019
+id: 385 PAKDD 2019 Call for Workshop Submissions
+id: 386 2nd CFP - 9th International Conference on Internet Technologies & Society 2019
+id: 387 CALL FOR PAPERS - IEEE/ACM INT'L SYMPOSIUM ON CLUSTER, CLOUD AND GRID COMPUTING 2019
+id: 388 1st Mission-Oriented Wireless Sensor, UAV and Robot Networking Workshop
+id: 389 WISTP 2018 - call for participation
+id: 390 Artificial Intelligence and Security (AISE) IJCNN 2019 Special Session
+id: 391 Call For Papers RCIS 2019 in Brussels, May 29-31
+id: 392 CFP: ACM IUI Workshop on Exploratory Search and Interactive Data Analytics (ESIDA)
+id: 393 CFP: IWBigDataCity 2019 deadline extended (Kyoto, Japan)
+id: 394 Call for ICDE 2019 Demo Papers: Due Date Extended to Nov 30
+id: 395 First CFP - EMMSAD'2019 in conjunction with CAiSE'2019, Rome, Italy,  June 3-4, 2019
+id: 396 Call for Participation: The 12th ACM International Conference on Web Search and Data Mining (WSDM�19
+id: 397 Deadline approaching - Special session at I2MTC 2019 - Instrumentation and measurement for AmI
+id: 398 CFP: IEEE Special Track on AI for Healthcare: from black box to explainable models (AI4H:B2E 2019)
+id: 399 Call for Papers: Alberto Mendelzon International Workshop on Foundations of Data Management (AMW)
+id: 400 AlCoB 2019: 1st call for papers
+id: 401 **** Deadline approaching **** BPM 2019 Call for Workshop Proposals
+id: 402 ICWS 2019 Call for Papers
+id: 403 ICDE 2019 final call for PhD symposium papers
+id: 404 [CFP] GDMA 2019 @DASFAA 2019
+id: 405 Your invitation to the ATFR2019
+id: 406 SS on Fuzzy methods in Data Mining and Knowledge Discovery - EUSFLAT 2019, Prague
+id: 407 Deadline Extension: Final CfP for the NoDMC Workshop @ BTW 2019, March, Rostock, Germany
+id: 408 Call for Papers: VIPERC2019 Workshop
+id: 409 The 27th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2019): Third CFP
+id: 410 Call For Papers: IFIP Networking 2019 Conference
+id: 411 CFP - 15th European Conference on Modelling Foundations and Applications (ECMFA 2019)
+id: 412 CFP ICIST19
+id: 413 JELIA 2019 - 3rd CfP - Deadline Approaching - IJCAI, TPLP, Awards and Prizes
+id: 414 Call For Papers:  Second Internationl Symposium on Foundations and Applications of Blockchain
+id: 415 [CFP] CITS2019 (Aug. 28~31, Beijing, China)
+id: 416 CfP: 7th International Conference on Infrastructures in Healthcare
+id: 417 BigDat 2019: early registration December 8
+id: 418 CLOUD 2019 Call for Papers
+id: 419 CLOUD 2019 Call for Papers
+id: 420 Call for Papers: PVLDB Volume 12 -  Research Track 
+id: 421 Final CFP: IIKE 2019 - The 1st Int. WS. on Intelligence & Interaction in Knowledge Engineering
+id: 422 Robotic 2019: early registration December 7
+id: 423 CFP: 33rd ECMS INTERNATIONAL CONFERENCE ON MODELLING AND SIMULATION (Data Stream Analytics Track)
+id: 424 ISCRAM 2019 (TRACK: Knowledge, Semantics and AI for RISK and CRISIS management) Call for Papers
+id: 425 CFP: 4th Electrical, Electronics, Computer Engineering and their Applications - EECEA2019
+id: 426 Call for Papers: SIGMOD'19 Workshop on Data Management for End-to-End Machine Learning (DEEM 2019)
+id: 427 Call for Contributions - 24th ACM Symposium on Access Control Models and Technologies (SACMAT 2019)
+id: 428 Call for Papers/Participation/Track Proposals
+id: 429 Exteded deadline: CfP: 1st Workshop on Semantic Explainability (SemEx 2019) @ ICSC 2019
+id: 430 SIGMOD 2019 Industry Track: NEW DEADLINE (Dec 1st): Last Call for Papers
+id: 431 ER 2019 � Call for Workshops
+id: 432 ICSI'2019&#65306;Call for Papers (http://www.ic-si.org)(Springer LNCS)(SCI/EI/ISTP/ISI/DBLP/Scopus)
+id: 433 DMBD'2019:Call for Papers (http://dmbd2019.ic-si.org)(Jan. 30, 2019)
+id: 434 EDBT 2019: Final Call for Demos (Deadline: Nov 30)
+id: 435 CfP: UISTDA2019: ACM IUI2019 Workshop on User Interfaces for Spatial and Temporal Data Analysis
+id: 436 JELIA 2019 - DEADLINES EXTENDED (Abstract 2 Dec. - Submission 7 Dec.)
+id: 437 10th International Conference on Ambient Systems, Networks and Technologies
+id: 438 The 16th International Conference on Mobile Systems and Pervasive Computing
+id: 439 FQAS 2019: Call for Contributions (Papers, Sessions, Panels, Tutorials)
+id: 440 Call for Paper IEEE SOSE 2019
+id: 441 5th International Conference on Information and Communication Technologies for Ageing Well and e-Health - ICT4AWE 2019
+id: 442 8th International Conference on Smart Cities and Green ICT Systems - SMARTGREENS 2019
+id: 443 CFP: IEEE Int. Conferences (HPCC, SmartCity, DSS) in Zhangjiajie, Hunan, China, 10-12 August 2019
+id: 444 Call For Papers:  Second Symposium on Foundations and Applications of Blockchain
+id: 445 Call for Papers: VIPERC2019 Workshop
+id: 446 IEEE TRUSTCOM 2019 - CALL FOR PAPERS
+id: 447 Call for Papers: EECEA2019 Philippines
+id: 448 ICIST19 CFP
+id: 449 Final Extension: Dec 3 Monday ICDE 2019 Demo Submissions 
+id: 450 AlCoB 2019: 2nd call for papers
+id: 451 CFP: BigVis 2019 - Big Data Visual Exploration and Analytics Workshop @ EDBT/ICDT
+id: 452 NVMW 2019 Call for Tutorials
+id: 453 CfP IEA/AIE 2018 - 32nd Intl Conf on Industrial, Eng. & Other Appl. of Applied Intelligent Systems
+id: 454 SEmotion19 � Call for Papers
+id: 455 46th SOFSEM: Call for Track Proposals
+id: 456 ICAIIC 2019 - Submission Due Date Extended to Dec. 8, 2018 (IEEE, AI Conference, Okinawa, Japan; SCI
+id: 457 [Deadline-Extension] 24th International Conference on Conceptual Structures (ICCS�19)
+id: 458 NFM 2019 Third Call For Papers- 11th Annual NASA Formal Methods Symposium
+id: 459 Abstract Deadline on Dec 3: Workshop on Self-Driving/Self-Managing Database Systems @ ICDE2019
+id: 460 Call for Papers: VIPERC2019 Workshop
+id: 461 VLDB 2019 : Call For Tutorial Proposals
+id: 462 Call for Papers
+id: 463 ICBC 2019 Call for Papers
+id: 464 SCC 2019 Call for Papers
+id: 465 IEEE/ACM CCGRID 2019 - Deadline extended!
+id: 466 Call for abstracts: SunBelt session on multiplex, multimode and multilayer networks
+id: 467 [CfP] ISWC 2019 - Joint CfP: 18th International Semantic Web Conference (ISWC 2019)
+id: 468 CFP: IEEE Int. Conferences (HPCC, SmartCity, DSS) in Zhangjiajie, Hunan, China, 10-12 August 2019
+id: 469 Workshop on Fog Computing and the Internet of Things (Fog-IoT 2019), co-located with CPS-IoT Week
+id: 470 [Deadline Extension] CFP: IEEE CogSIMA 2019, Las Vegas, 8-11 April
+id: 471 2nd Call for Papers 6th Swiss Conference on Data Science (IEEE technically co-sponsored)
+id: 472 2nd Call for Papers 6th Swiss Conference on Data Science (IEEE technically co-sponsored)
+id: 473 ICCSA 2019: Call For Papers
+id: 474 [Deadline extension] ISCRAM 2019 (TRACK: Knowledge, Semantics and AI for RISK and CRISIS management)
+id: 475 BigDat 2019: early registration December 8
+id: 476 CfP: 9th Temporal Web Analytics Workshop (TempWeb), San Francisco, USA, May 13/14, 2019
+id: 477 ICWS 2019 Call for Papers
+id: 478 CLOUD 2019 Call for Papers
+id: 479 Evolving and adaptive fuzzy models for data streams @EUSFLAT2019
+id: 480 CfP ICT4S 2019: Paper Deadline
+id: 481 Robotic 2019: early registration December 7
+id: 482 Call for Papers: 1st IEEE Int. Conference on Process Mining (ICPM) 2019
+id: 483 Deadline Extended to Dec 22 -  Call for Paper: 2019 ICDE Workshop on Self Managing Databases (SMDB)
+id: 484 Call for Papers: VIPERC2019 Workshop
+id: 485 CFP: The 9th International Symposium on Internet of Ubiquitous and Pervasive Things (IUPT 2019)
+id: 486 NewNets2019 Call for Papers
+id: 487 Call For Papers:  Second International Symposium on Foundations and Applications of Blockchain
+id: 488 ZEUS 2019 Call for Papers
+id: 489 CFP: Workshop on Large Scale Graph Data Analytics (LSGDA) with ICDE 2019 (deadline in 10 days)
+id: 490 ICDE'19 International Workshop on Recommender Systems with Big Data - Call for Paper
+id: 491 Call for Papers: Eighth International Workshop on Evaluating Information Access (EVIA 2019)
+id: 492 CfP North East Database Day 2019 (NEDBDay19)
+id: 493 CFP: ICDE'19 Workshop on Recommender Systems with Big Data
+id: 494 World IT Congress 2019 Jeju
+id: 495 World IT Congress 2019 Jeju - Call for Papers 
+id: 496 CfP: Data Science in Industry 4.0 (EDBT/ICDT Workshop)
+id: 497 CFP ACM International Conference on Distributed and Event-based Systems, ACM DEBS 2019
+id: 498 14th International Conference on Evaluation of Novel Approaches to Software Engineering - ENASE 2019
+id: 499 International Conference on Finance, Economics, Management and IT Business - FEMIB 2019
+id: 500 VIPERC2019 Extended Deadline
+id: 501 CFP 10th Latin American Web Congress (LA-WEB 2019) in conjunction with TWC 2019
+id: 502 MDM 2019 Call for Industry Track Papers
+id: 503 Interdisciplinary Approaches in Data Science and Digital Transformation Practice (IADSDTP 2019)
+id: 504 CFP ACM �ICIST�2019 
+id: 505 CFP: IEEE Int'l Workshop on Blockchain and Data Management (In Conjunction with ICDE 2019)
+id: 506 27th ACM UMAP 2019: Last Call for Workshop Proposals
+id: 507 3rd CfP: Natural Language Processing in Artificial Intelligence - NLPinAI 2019 (update)
+id: 508 CfP: 10th International Workshop on Modeling Social Media: Mining, Modeling and Learning from Social
+id: 509 Last CfP: IUI2019 Workshop on User Interfaces for Spatial and Temporal Data Analysis
+id: 510 IEEE/ACM CCGRID 2019 - Deadline Approaching (5 days to go)!
+id: 511 AlCoB 2019: 2nd call for papers
+id: 512 The 27th ACM UMAP: First Call for Demos and Late Breaking Results
+id: 513 Satellite Session T.T.M. 2019 - Terminology and Text Mining - TOTh'2019
+id: 514 1st CfP - AW4city 2019, 5th International ACM Smart City Workshop: Enhancing Urban Mobility with Web
+id: 515 CFP - Business Information Systems / S-BPM-One
+id: 516 CFP: 3rd edition of the DARLI-AP 2019 workshop @ EDBT/ICDT 2019
+id: 517 4th International Conference on Complexity, Future Information Systems and Risk - COMPLEXIS 2019
+id: 518 The 5th IEEE International Conference on Cloud and Big Data Computing (IEEE CBDCom 2019)
+id: 519 VIPERC2019 Workshop Extended Deadline
+id: 520 Artificial Intelligence and Security (AISE) IJCNN 2019 Special Session
+id: 521 Artificial Intelligence and Security (AISE) IJCNN 2019 Special Session
+id: 522 Call for Papers--Second International Workshop on Multimedia Pragmatics
+id: 523 CALL FOR PAPER
+id: 524 ECIR 2019 Workshop on Social Media for Personalization And Search
+id: 525 Petri nets 2019 -- Call for papers
+id: 526 BigDat 2019: regular registration January 4
+id: 527 CFP: 32th IEEE International Symposium on Computer-Based Medical Systems (IEEE CBMS 2019)
+id: 528 27th ACM UMAP 2019: First Call for Theory, Opinion and Reflection Papers
+id: 529 Extended Deadline: CFP for Big Mobility Data Analytics (BMDA) @ EDBT/ICDT 2019
+id: 530 Call for Papers and Announcement - ACSD 2019
+id: 531 1st Mission-Oriented Wireless Sensor, UAV and Robot Networking Workshop
+id: 532 CFP :WSDM 2019 Leuven, Belgium (Extended date December 22)
+id: 533 CfP: 5th Workshop on Managing the Evolution and Preservation of the Data Web - MEPDaW 2019
+id: 534 Robotic 2019: early registration December 31st
+id: 535 CfP: 5th Workshop on Managing the Evolution and Preservation of the Data Web - MEPDaW 2019
+id: 536 CfP LocWeb 2019 @ WWW2019 - 9th International Workshop on Location and the Web
+id: 537 PAKDD 2019 Call for Contest Participation
+id: 538 SEH 2019@ICSE2019: 1st International Workshop on Software Engineering for Healthcare (SEH)
+id: 539 CFP: Call for PhD Forum Submissions of MDM 2019
+id: 540 3rd Call for Papers 6th Swiss Conference on Data Science 2019 (IEEE technically co-sponsored)
+id: 541 12th International Conference on Informatics in Schools (ISSEP 2019): First Call for Papers
+id: 542 CFP: 3rd edition of the DARLI-AP 2019 workshop @ EDBT/ICDT 2019 (NEW Submission deadline)
+id: 543 CFP 1st FATES on the Web 2019 workshop in conjunction with The Web Conference 2019
+id: 544 IEEE MDM 2019 Call for Tutorials / Advanced Seminars 
+id: 545 Data Science Poster Opportunity - SDSC 2019 CFP
+id: 546 IEEE MDM 2019 Call for Demo Track Papers
+id: 547 IEEE MDM 2019 Call for Demo Track Papers
+id: 548 CFP deadline Jan 18: HardBD&Active'19 at ICDE'19 on New Hardware + DB
+id: 549 [2nd CFP] GDMA 2019 @DASFAA 2019
+id: 550 Deadline extension LILG-2019 (Learning Information Literacy Across the Globe)
+id: 551 CFP: IEEE Int. Conferences (HPCC, SmartCity, DSS) in Zhangjiajie, Hunan, China, 10-12 August 2019
+id: 552 Call for Participation - Blockchain @ ACM SACMAT'19
+id: 553 CFP ICIST19
+id: 554 Deadline passes today: IUI2019 Workshop on User Interfaces for Spatial & Temporal Data Analysis
+id: 555 27th ACM UMAP 2019: Second Call for Tutorial Proposals
+id: 556 VIPERC2019 Workshop Extended Deadline
+id: 557 CFP: 2019 ICDE Workshop on Recommender Systems with Big Data 
+id: 558 TrustData 2019 CFP: Atlanta, USA, July 14-17, 2019
+id: 559 The 27th ACM UMAP 2019: Second Call for Doctoral Consortium Submissions
+id: 560 Action Required: Final 2nd International Conference on Computer Apps & Info Security ICCAIS
+id: 561 CFP: 2nd&#8203; Workshop on Emoji Understanding and Applications in Social Media @ The Web Conference 2019
+id: 562 CFP: Workshop on Large Scale Graph Data Analytics (LSGDA) ICDE 2019 (deadline extended to 22 Dec)
+id: 563 ICWE 2019 - Call for Papers & Workshop Proposals
+id: 564 Call for Papers: IEEE MDM 2019, Hong Kong (Abstract/Paper Deadline: Jan 11/18, 2019)
+id: 565 CFP: EJC2019 (submission due: Jan. 13, 2019), held on June 3-7, 2019, Lappeenranta, Finland
+id: 566 [CPS-IoTBench 2019] Call for Papers
+id: 567 Call for Papers: WINDS 2019
+id: 568 2nd CFP: 12th IADIS International Conference on Information Systems 2019
+id: 569 Call for Contributions - 24th ACM Symposium on Access Control Models and Technologies (SACMAT 2019)
+id: 570 AlCoB 2019: 2nd call for papers
+id: 571 The 7th International Workshop on Realizing Artificial Intelligence Synergies in Software Engineerin
+id: 572 Final CfP: IEEE International Conference on Fog and Edge Computing (ICFEC 2019)
+id: 573 Workshop at ESWC 2019 on Deep Learning for Knowledge Graphs
+id: 574 CFP: TAPP 2019 (Intl. Workshop on Theory and Practice of Provenance), deadline Feb 28, 2019
+id: 575 CFP deadline Jan 14: DECOR2019@ICDE "Data Engineering meets Intelligent Food and COoking  Recipes"
+id: 576 4 days to deadline: CFP for the Big Mobility Data Analytics (BMDA) @ EDBT/ICDT 2019
+id: 577 Workshop on Designing Crowd-powered Creativity Support Systems (DC2S2)
+id: 578 Workshop on Designing Crowd-powered Creativity Support Systems (DC2S2)
+id: 579 8th Computer Science Education Research Conference (CSERC' 19): First Call for Papers
+id: 580 CFP SS on Data Mining & Knowledge Discovery-FQAS'2019 - Amantea (Italy)
+id: 581 CFP:The 5th International Conference on Big Data Innovations and Applications
+id: 582 CFP: IEEE Int. Conferences (HPCC, SmartCity, DSS) in Zhangjiajie, Hunan, China, 10-12 August 2019
+id: 583 ADBIS 2019 Conference
+id: 584 VIPERC2019 Workshop Extended Deadline
+id: 585 [CfP] ISWC 2019 - Call for Tutorials, Workshops and Challenges
+id: 586 [CfP] ISWC 2019 - Call for Tutorials, Workshops and Challenges
+id: 587 CFP INFORSID 2019
+id: 588 CFP: Pacific Asia Workshop on Intelligence and Security Informatics (Macau, Apr 2019)
+id: 589 BigDat 2019: regular registration January 4
