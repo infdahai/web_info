@@ -33,7 +33,7 @@ public class luceneIndex {
     private static final String index_path = "lucene\\index";
     private static final String origin_path = "modify_doc\\";
 
-    private static Directory ram_dir;
+  //  private static Directory ram_dir;
     private static Directory fs_dir;
     private static Analyzer analyzer;
     private static IndexWriterConfig iwc;
@@ -41,13 +41,14 @@ public class luceneIndex {
     private static File[] files;
 
     private static void init() throws IOException {
-        ram_dir = new RAMDirectory();
+    //    ram_dir = new RAMDirectory();
         analyzer = new StandardAnalyzer();
         iwc = new IndexWriterConfig(analyzer);
         iwc.setOpenMode(OpenMode.CREATE_OR_APPEND);
 
         files = new File(origin_path).listFiles();
         fs_dir = FSDirectory.open(Paths.get(index_path));
+
         indexWriter = new IndexWriter(fs_dir, iwc);
         //    indexWriter = new IndexWriter(ram_dir, iwc);
         //ref link: https://www.jianshu.com/p/1f3ba892fc64
