@@ -1,10 +1,10 @@
 package lucene;
 
 
-import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.en.EnglishAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
@@ -22,13 +22,19 @@ import java.nio.file.Paths;
 
 public class SearchBuilder {
     public static void doSearch(String indexDir, String queryStr) throws IOException, ParseException {
+//        Directory directory = FSDirectory.open(Paths.get(indexDir));
+//        DirectoryReader reader = DirectoryReader.open(directory);
+//        IndexSearcher searcher = new IndexSearcher(reader);
+//        Analyzer analyzer = new StandardAnalyzer();
+//        //Analyzer analyzer = new EnglishAnalyzer();
+//        QueryParser parser = new QueryParser("filename_id", analyzer);
+//        Query query = parser.parse(queryStr);
+
         Directory directory = FSDirectory.open(Paths.get(indexDir));
-        DirectoryReader reader = DirectoryReader.open(directory);
-        IndexSearcher searcher = new IndexSearcher(reader);
-       // Analyzer analyzer = new StandardAnalyzer();
-        Analyzer analyzer = new EnglishAnalyzer();
-        QueryParser parser = new QueryParser("theme", analyzer);
-        Query query = parser.parse(queryStr);
+        IndexReader indexReader = DirectoryReader.open(directory);
+        IndexSearcher searcher = new IndexSearcher(indexReader);
+        QueryParser queryParser = new QueryParser("location", new StandardAnalyzer());
+        Query query = queryParser.parse(queryStr);
 
         long startTime = System.currentTimeMillis();
         TopDocs docs = searcher.search(query, 10);
@@ -38,20 +44,20 @@ public class SearchBuilder {
         System.out.println("查询到" + docs.totalHits + "条记录");
 
 
-        //遍历查询结果
+        //遍历查询结果41
         for (ScoreDoc scoreDoc : docs.scoreDocs) {
             Document doc = searcher.doc(scoreDoc.doc);
-            String content = doc.get("id");
-            System.out.println(content);
+            System.out.println(doc.get("location")+doc.get("deadline")+"\n"+doc.get("subject"));
         }
-        reader.close();
+        System.out.println("=======================");
+        //reader.close();
     }
 
     public static void main(String[] args) {
         String indexDir = "lucene\\index";
-        String q = "md_1"; //查询这个字符串
+        String queryStr = "uk"; //查询这个字符串
         try {
-            doSearch(indexDir, q);
+            doSearch(indexDir, queryStr);
         } catch (Exception e) {
             e.printStackTrace();
         }
