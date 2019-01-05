@@ -191,7 +191,7 @@ public class luceneIndex {
         Pattern p = Pattern.compile("\\d+");
         Matcher m = p.matcher(filename);
         int id = Integer.parseInt(strid = m.group(1));
-        boolean flag = false;
+        //boolean flag = false;
         if ((content = doc_init.file_process.readToString(file)) != null) {
             Document doc_lucene = new Document();
             doc_lucene.add(new StringField("filename_id", id+"", Store.YES));
