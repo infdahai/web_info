@@ -75,7 +75,6 @@ public class luceneIndex {
             doc_lucene.add(new StringField("location", file.getName(), Store.YES));
             doc_lucene.add(new StringField("deadline", file.getName(), Store.YES));
         }
-
     }
 
     //  ref link: https://www.jianshu.com/p/1f3ba892fc64
