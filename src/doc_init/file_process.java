@@ -1,12 +1,9 @@
 package doc_init;
 
-import org.apache.lucene.store.Directory;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.util.Arrays;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -22,7 +19,7 @@ public class file_process {
     //  private static final String text_5 = "\\t|\\r|\\n";
     private static final String text_5 = "\\t|\\r";
     private static final String text_6 = "<a(?s).*?/a>";
-    private static final String text_7 = "\\+|-{2,}|\\||\\*{2,}|={2,}";
+    private static final String text_7 = "\\+|\\||={2,}|-{5,}|\\*{3,}";
     private static final String text_8 = "https:.*?\\s";
     private static final String text_9 = "DBWorld Message";
     private static final String text_10 = "http:.*?\\s";
@@ -33,6 +30,8 @@ public class file_process {
     private static final String text_14 = "&.*?;";
     private static final String text_15 = "/\\*(.|\\s)*?\\*/";
     private static final String text_16 = "\\n[ ]\\n";
+    private static final String text_17 = "-{2,}";
+    private static final String text_18 = "\\*{2,}";
     private static final String html_tag = "<.*?>";
     private static final String html_tag_1 = "h\\d+";
     /*
@@ -75,6 +74,8 @@ public class file_process {
         }
 
         line = duplicate_replace(line, html_tag);
+        line = line.replaceAll(text_17, "-");
+        line = line.replaceAll(text_18, "*");
         line = line.replaceAll(":{1,}", ":");
         line = line.replaceAll("[ ]+", " ");
         line = line.replaceAll("\\n{1,}", "\n");
