@@ -32,7 +32,7 @@ public class file_process {
     private static final String text_13 = "\\{(.|\\s)*?\\}";
     private static final String text_14 = "&.*?;";
     private static final String text_15 = "/\\*(.|\\s)*?\\*/";
-   // private static final String text_16 = ",";
+    private static final String text_16 = "\\n[ ]\\n";
     private static final String html_tag = "<.*?>";
     private static final String html_tag_1 = "h\\d+";
     /*
@@ -54,7 +54,7 @@ public class file_process {
 
     public static String file_clean(String line) {
         line = line.replaceAll("[^\\x00-\\x7F]", " ");
-        line = line.replaceAll("\\n{1,}", "\n");
+        line = line.replaceAll("\\n{2,}", "\n");
     //    line = line.replaceAll(",{2,}", ",");
         String index[] = {text_9, text_0, text_5, text_4, text_3, text_6, text_7, text_8};
         String index_2[] = {text_15, text_10, text_12, text_11, text_13, text_14};
@@ -78,6 +78,7 @@ public class file_process {
         line = line.replaceAll(":{1,}", ":");
         line = line.replaceAll("[ ]+", " ");
         line = line.replaceAll("\\n{1,}", "\n");
+        line = line.replaceAll(text_16,"\n");
         return line.trim();
     }
 
