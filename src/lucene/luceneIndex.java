@@ -195,13 +195,13 @@ public class luceneIndex {
         //boolean flag = false;
         if ((content = doc_init.file_process.readToString(file)) != null) {
             Document doc_lucene = new Document();
-            doc_lucene.add(new StringField("filename_id", id+"", Store.YES));
-            doc_lucene.add(new StringField("from", from[id], Store.YES));
-            doc_lucene.add(new StringField("to", to[id], Store.YES));
-            doc_lucene.add(new StringField("description", web_site[id], Store.YES));
-            doc_lucene.add(new StringField("subject", subject[id], Store.YES));
-            doc_lucene.add(new StringField("location", location[id], Store.YES));
-            doc_lucene.add(new StringField("deadline", deadline[id], Store.YES));
+            doc_lucene.add(new TextField("filename_id", id+"", Store.YES));
+            doc_lucene.add(new TextField("from", from[id], Store.YES));
+            doc_lucene.add(new TextField("to", to[id], Store.YES));
+            doc_lucene.add(new TextField("description", web_site[id], Store.YES));
+            doc_lucene.add(new TextField("subject", subject[id], Store.YES));
+            doc_lucene.add(new TextField("location", location[id], Store.YES));
+            doc_lucene.add(new TextField("deadline", deadline[id], Store.YES));
 //            doc_lucene.add(new StringField("filename_id", id+"", Store.YES));
 //            doc_lucene.add(new StringField("from", from.get(id), Store.YES));
 //            doc_lucene.add(new StringField("to", to.get(id), Store.YES));
