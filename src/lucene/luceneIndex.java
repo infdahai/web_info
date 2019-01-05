@@ -58,12 +58,11 @@ public class luceneIndex {
         int count = 0;
         int least_length = 20;
         String content;
-        boolean flag = false;
+    //    boolean flag = false;
         if ((content = doc_init.file_process.readToString(file)) != null) {
             if (content.length() < least_length)
                 return;
             Document doc_lucene = new Document();
-            content = doc_init.file_process.file_clean(content);
             doc_lucene.add(new StringField("filename_id", file.getName(), Store.YES));
             doc_lucene.add(new StringField("from", file.getName(), Store.YES));
             doc_lucene.add(new StringField("to", file.getName(), Store.YES));
@@ -74,6 +73,18 @@ public class luceneIndex {
             // Bengaluru, India</a>
             doc_lucene.add(new StringField("location", file.getName(), Store.YES));
             doc_lucene.add(new StringField("deadline", file.getName(), Store.YES));
+
+            boolean flag = false;
+            try {
+                indexWriter.addDocument(doc_lucene);
+            } catch (RuntimeException e) {
+                e.printStackTrace();
+                flag = true;
+            }
+            if (flag == false) {
+                indexWriter.flush();
+                indexWriter.commit();
+            }
         }
     }
 
@@ -81,7 +92,7 @@ public class luceneIndex {
 
     public static void main(String[] args) throws IOException {
         init();
-        if (fs_dir.listAll().length == 0) {
+        if (fs_dir.listAll().length != 0) {
             for (File file : files) {
                 System.out.println("create index for " + file.getName());
                 create_index(file);
