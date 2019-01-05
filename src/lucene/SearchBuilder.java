@@ -27,7 +27,7 @@ public class SearchBuilder {
         IndexSearcher searcher = new IndexSearcher(reader);
        // Analyzer analyzer = new StandardAnalyzer();
         Analyzer analyzer = new EnglishAnalyzer();
-        QueryParser parser = new QueryParser("content", analyzer);
+        QueryParser parser = new QueryParser("theme", analyzer);
         Query query = parser.parse(queryStr);
 
         long startTime = System.currentTimeMillis();
@@ -41,14 +41,15 @@ public class SearchBuilder {
         //遍历查询结果
         for (ScoreDoc scoreDoc : docs.scoreDocs) {
             Document doc = searcher.doc(scoreDoc.doc);
-            String content = doc.get("content");
+            String content = doc.get("id");
+            System.out.println(content);
         }
         reader.close();
     }
 
     public static void main(String[] args) {
-        String indexDir = "lucene\\";
-        String q = "content\\"; //查询这个字符串
+        String indexDir = "lucene\\index";
+        String q = "md_1"; //查询这个字符串
         try {
             doSearch(indexDir, q);
         } catch (Exception e) {
