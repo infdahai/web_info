@@ -27,6 +27,7 @@ import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.store.*;
+import org.apache.lucene.util.Version;
 
 public class luceneIndex {
     private static final String index_path = "lucene\\index";
@@ -44,13 +45,21 @@ public class luceneIndex {
         analyzer = new StandardAnalyzer();
         iwc = new IndexWriterConfig(analyzer);
         iwc.setOpenMode(OpenMode.CREATE_OR_APPEND);
-        //     iwc.setRAMBufferSizeMB(4096.0);
-        indexWriter = new IndexWriter(ram_dir, iwc);
+
         files = new File(origin_path).listFiles();
         fs_dir = FSDirectory.open(Paths.get(index_path));
+        indexWriter = new IndexWriter(fs_dir, iwc);
+        //    indexWriter = new IndexWriter(ram_dir, iwc);
         //ref link: https://www.jianshu.com/p/1f3ba892fc64
     }
 
+    public static void recreate_index() {
+        try {
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 
 
     public static void create_index(File file) throws IOException {
@@ -58,7 +67,7 @@ public class luceneIndex {
         int count = 0;
         int least_length = 20;
         String content;
-    //    boolean flag = false;
+        //    boolean flag = false;
         if ((content = doc_init.file_process.readToString(file)) != null) {
             if (content.length() < least_length)
                 return;
@@ -92,18 +101,19 @@ public class luceneIndex {
 
     public static void main(String[] args) throws IOException {
         init();
-        if (fs_dir.listAll().length != 0) {
-            for (File file : files) {
-                System.out.println("create index for " + file.getName());
-                create_index(file);
-                System.out.println(file.getName() + " ok! ");
-            }
-            indexWriter.forceMerge(1);
-            indexWriter.close();
+
+        for (File file : files) {
+            System.out.println("create index for " + file.getName());
+            create_index(file);
+            System.out.println(file.getName() + " ok! ");
         }
+ //       indexWriter.forceMerge(1);
+ //       indexWriter.close();
+        /*
         for (String file : ram_dir.listAll()) {
             fs_dir.copyFrom(ram_dir, file, file, IOContext.DEFAULT);
         }
+        */
     }
 
 }
