@@ -267,9 +267,11 @@ public class BasicPipelineExample {
                             System.out.print(str);
                             System.out.print(' ');
                         }
+                        /*
                         if (tmp == 17) {
                             System.out.println("debug now!");
                         }
+                        */
                         loc_store.add(str_joint);
                         System.out.print("\n");
                         if (ok_date) {
