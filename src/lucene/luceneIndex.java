@@ -35,23 +35,23 @@ public class luceneIndex {
     private static final String index_path = "lucene\\index";
     private static final String origin_path = "modify_doc\\";
 
-  //  private static Directory ram_dir;
+    //  private static Directory ram_dir;
     private static Directory fs_dir;
     private static Analyzer analyzer;
     private static IndexWriterConfig iwc;
     private static IndexWriter indexWriter;
     private static File[] files;
 
-    
+
     private static String[] from = new String[1000];
     private static String[] to = new String[1000];
     private static String[] web_site = new String[1000];
     private static String[] subject = new String[1000];
     private static String[] location = new String[1000];
     private static String[] deadline = new String[1000];
-    
+
     private static void init() throws IOException {
-    //    ram_dir = new RAMDirectory();
+        //    ram_dir = new RAMDirectory();
         analyzer = new StandardAnalyzer();
         iwc = new IndexWriterConfig(analyzer);
         iwc.setOpenMode(OpenMode.CREATE_OR_APPEND);
@@ -80,32 +80,33 @@ public class luceneIndex {
         int id;
         //from-to
         try {
-            fr = new FileReader("..\\..\\data.txt");
+            fr = new FileReader("data\\date.txt");
             bf = new BufferedReader(fr);
-            bf.readLine();
-            id = 1;
+            id = 0;
             // 一次读入一行，直到读入null为文件结束
             while ((str = bf.readLine()) != null && id<=rows) {
                 // 读一行减1加一，并处理字符串
                 strArr = str.split(" ");
                 from[id]=to[id]="unknown";
                 if(strArr.length>3)
-                    from[id]=strArr[2]+"-"+strArr[3]+"-"+strArr[4];
-                if(strArr.length>5)
-                    to[id]=strArr[2]+"-"+strArr[3]+"-"+strArr[5];
-                id++;
-                bf.close();
-                fr.close();
+                    from[id] = strArr[2] + "-" + strArr[3];
+
+                if(strArr.length>5) {
+                    from[id] = strArr[2] + "-" + strArr[3] + "-" + strArr[4];
+                    to[id] = strArr[2] + "-" + strArr[3] + "-" + strArr[5];
+                }
+                id++;System.out.println(id+" "+from[id-1]+" "+to[id-1]);
             }
+            bf.close();
+            fr.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
         //web_site
         try {
-            fr = new FileReader("..\\..\\web_site.txt");
+            fr = new FileReader("data\\web_site.txt");
             bf = new BufferedReader(fr);
-            bf.readLine();
-            id = 1;
+            id = 0;
             // 一次读入一行，直到读入null为文件结束
             while ((str = bf.readLine()) != null && id<=rows) {
                 // 读一行加一，并处理字符串
@@ -114,18 +115,17 @@ public class luceneIndex {
                     str=str.substring(1);
                 str=str.substring(1);
                 web_site[id++] = str;
-                bf.close();
-                fr.close();
             }
+            bf.close();
+            fr.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
         //subject
         try {
-            fr = new FileReader("..\\..\\subject.txt");
+            fr = new FileReader("data\\subject.txt");
             bf = new BufferedReader(fr);
-            bf.readLine();
-            id = 1;
+            id = 0;
             // 一次读入一行，直到读入null为文件结束
             while ((str = bf.readLine()) != null && id<=rows) {
                 // 读一行加一，并处理字符串
@@ -134,18 +134,17 @@ public class luceneIndex {
                     str=str.substring(1);
                 str=str.substring(1);
                 subject[id++] = str;
-                bf.close();
-                fr.close();
             }
+            bf.close();
+            fr.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
         //location
         try {
-            fr = new FileReader("..\\..\\location.txt");
+            fr = new FileReader("data\\location.txt");
             bf = new BufferedReader(fr);
-            bf.readLine();
-            id = 1;
+            id = 0;
             // 一次读入一行，直到读入null为文件结束
             while ((str = bf.readLine()) != null && id<=rows) {
                 // 读一行加一，并处理字符串
@@ -154,43 +153,45 @@ public class luceneIndex {
                     str=str.substring(1);
                 str=str.substring(1);
                 location[id++] = str;
-                bf.close();
-                fr.close();
             }
+            bf.close();
+            fr.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
         //deadline
         try {
-            fr = new FileReader("..\\..\\deadline.txt");
+            fr = new FileReader("data\\deadline.txt");
             bf = new BufferedReader(fr);
-            bf.readLine();
-            id = 1;
+            id = 0;
             // 一次读入一行，直到读入null为文件结束
             while ((str = bf.readLine()) != null && id<=rows) {
                 // 读一行减1加一，并处理字符串
                 strArr = str.split(" ");
                 deadline[id++] = strArr[2];
-                bf.close();
-                fr.close();
             }
+            bf.close();
+            fr.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
         return "aaa";
     }
 
-    
+
 
     public static void create_index(File file) throws IOException {
         //     BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(file), "UTF-8"));
         int count = 0;
         int least_length = 20;
-        String content,strid;
+        int id=0;
+        String content;
         String filename = file.getName();
         Pattern p = Pattern.compile("\\d+");
         Matcher m = p.matcher(filename);
-        int id = Integer.parseInt(strid = m.group(1));
+        if(m.find())
+            id = Integer.parseInt(m.group(0));
+        System.out.println("id is "+id);
         //boolean flag = false;
         if ((content = doc_init.file_process.readToString(file)) != null) {
             Document doc_lucene = new Document();
@@ -208,9 +209,9 @@ public class luceneIndex {
 //            doc_lucene.add(new StringField("subject", subject.get(id), Store.YES));
 //            doc_lucene.add(new StringField("location", location.get(id), Store.YES));
 //            doc_lucene.add(new StringField("deadline", deadline.get(id), Store.YES));
-                // generate
-                // <a href="https://www.openstreetmap.org/search?query=&quot;Bengaluru, India&quot;&layers=C">
-                // Bengaluru, India</a>
+            // generate
+            // <a href="https://www.openstreetmap.org/search?query=&quot;Bengaluru, India&quot;&layers=C">
+            // Bengaluru, India</a>
 
             boolean flag = false;
             try {
@@ -230,14 +231,14 @@ public class luceneIndex {
 
     public static void main(String[] args) throws IOException {
         init();
-        luceneIndex.getField(20);
+        luceneIndex.getField(600);
         for (File file : files) {
             System.out.println("create index for " + file.getName());
             create_index(file);
             System.out.println(file.getName() + " ok! ");
         }
- //       indexWriter.forceMerge(1);
- //       indexWriter.close();
+        //       indexWriter.forceMerge(1);
+        //       indexWriter.close();
         /*
         for (String file : ram_dir.listAll()) {
             fs_dir.copyFrom(ram_dir, file, file, IOContext.DEFAULT);
