@@ -45,3 +45,7 @@
     
     用的是正则(匹配较少)，但实际上用nlpCore更好。这方面可以参考正则的策略， 结合nlp parser(property: noun)以及 text 分析一下就行。
    
+ ## the final:
+ 
+  不管怎么说，完结撒花吧:tada:(我和我的队友都**心力交瘁** :pray: )
+ 
