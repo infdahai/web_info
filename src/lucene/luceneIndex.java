@@ -1,35 +1,21 @@
 package lucene;
 
-import nlpCore.*;
-import doc_init.*;
-
-import java.io.*;
-
-import java.nio.file.Paths;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import java.util.ArrayList;
-
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field.Store;
-import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
-import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
-import org.apache.lucene.index.IndexWriterConfig.OpenMode;
 import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.queryparser.classic.QueryParser;
-import org.apache.lucene.search.IndexSearcher;
-import org.apache.lucene.search.Query;
-import org.apache.lucene.search.ScoreDoc;
-import org.apache.lucene.store.*;
-import org.apache.lucene.util.Version;
+import org.apache.lucene.index.IndexWriterConfig.OpenMode;
+import org.apache.lucene.store.Directory;
+import org.apache.lucene.store.FSDirectory;
+
+import java.io.*;
+import java.nio.file.Paths;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 
 public class luceneIndex {
     private static final String index_path = "lucene\\index";
@@ -52,6 +38,7 @@ public class luceneIndex {
 
     private static void init() throws IOException {
         //    ram_dir = new RAMDirectory();
+     //   deleteAllFile(index_path);
         analyzer = new StandardAnalyzer();
         iwc = new IndexWriterConfig(analyzer);
         iwc.setOpenMode(OpenMode.CREATE_OR_APPEND);
@@ -62,15 +49,9 @@ public class luceneIndex {
         indexWriter = new IndexWriter(fs_dir, iwc);
         //    indexWriter = new IndexWriter(ram_dir, iwc);
         //ref link: https://www.jianshu.com/p/1f3ba892fc64
+
     }
 
-    public static void recreate_index() {
-        try {
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
 
     public static String getField(int rows) throws FileNotFoundException {//最多rows或最大数量个文件
         FileReader fr;
@@ -84,18 +65,19 @@ public class luceneIndex {
             bf = new BufferedReader(fr);
             id = 0;
             // 一次读入一行，直到读入null为文件结束
-            while ((str = bf.readLine()) != null && id<=rows) {
+            while ((str = bf.readLine()) != null && id <= rows) {
                 // 读一行减1加一，并处理字符串
                 strArr = str.split(" ");
-                from[id]=to[id]="unknown";
-                if(strArr.length>3)
+                from[id] = to[id] = "unknown";
+                if (strArr.length > 3)
                     from[id] = strArr[2] + "-" + strArr[3];
 
-                if(strArr.length>5) {
+                if (strArr.length > 5) {
                     from[id] = strArr[2] + "-" + strArr[3] + "-" + strArr[4];
                     to[id] = strArr[2] + "-" + strArr[3] + "-" + strArr[5];
                 }
-                id++;System.out.println(id+" "+from[id-1]+" "+to[id-1]);
+                id++;
+                System.out.println(id + " " + from[id - 1] + " " + to[id - 1]);
             }
             bf.close();
             fr.close();
@@ -108,12 +90,12 @@ public class luceneIndex {
             bf = new BufferedReader(fr);
             id = 0;
             // 一次读入一行，直到读入null为文件结束
-            while ((str = bf.readLine()) != null && id<=rows) {
+            while ((str = bf.readLine()) != null && id <= rows) {
                 // 读一行加一，并处理字符串
                 str.substring(5);
-                while(str.charAt(0)!=' ')
-                    str=str.substring(1);
-                str=str.substring(1);
+                while (str.charAt(0) != ' ')
+                    str = str.substring(1);
+                str = str.substring(1);
                 web_site[id++] = str;
             }
             bf.close();
@@ -127,12 +109,12 @@ public class luceneIndex {
             bf = new BufferedReader(fr);
             id = 0;
             // 一次读入一行，直到读入null为文件结束
-            while ((str = bf.readLine()) != null && id<=rows) {
+            while ((str = bf.readLine()) != null && id <= rows) {
                 // 读一行加一，并处理字符串
                 str.substring(5);
-                while(str.charAt(0)!=' ')
-                    str=str.substring(1);
-                str=str.substring(1);
+                while (str.charAt(0) != ' ')
+                    str = str.substring(1);
+                str = str.substring(1);
                 subject[id++] = str;
             }
             bf.close();
@@ -146,12 +128,12 @@ public class luceneIndex {
             bf = new BufferedReader(fr);
             id = 0;
             // 一次读入一行，直到读入null为文件结束
-            while ((str = bf.readLine()) != null && id<=rows) {
+            while ((str = bf.readLine()) != null && id <= rows) {
                 // 读一行加一，并处理字符串
                 str.substring(5);
-                while(str.charAt(0)!=' ')
-                    str=str.substring(1);
-                str=str.substring(1);
+                while (str.charAt(0) != ' ')
+                    str = str.substring(1);
+                str = str.substring(1);
                 location[id++] = str;
             }
             bf.close();
@@ -165,7 +147,7 @@ public class luceneIndex {
             bf = new BufferedReader(fr);
             id = 0;
             // 一次读入一行，直到读入null为文件结束
-            while ((str = bf.readLine()) != null && id<=rows) {
+            while ((str = bf.readLine()) != null && id <= rows) {
                 // 读一行减1加一，并处理字符串
                 strArr = str.split(" ");
                 deadline[id++] = strArr[2];
@@ -179,29 +161,28 @@ public class luceneIndex {
     }
 
 
-
     public static void create_index(File file) throws IOException {
         //     BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(file), "UTF-8"));
         int count = 0;
-        int least_length = 20;
-        int id=0;
+        int id = 0;
         String content;
         String filename = file.getName();
         Pattern p = Pattern.compile("\\d+");
         Matcher m = p.matcher(filename);
-        if(m.find())
+        if (m.find())
             id = Integer.parseInt(m.group(0));
-        System.out.println("id is "+id);
+        System.out.println("id is " + id);
         //boolean flag = false;
         if ((content = doc_init.file_process.readToString(file)) != null) {
             Document doc_lucene = new Document();
-            doc_lucene.add(new TextField("filename_id", id+"", Store.YES));
+            doc_lucene.add(new TextField("filename_id", id + "", Store.YES));
             doc_lucene.add(new TextField("from", from[id], Store.YES));
             doc_lucene.add(new TextField("to", to[id], Store.YES));
             doc_lucene.add(new TextField("description", web_site[id], Store.YES));
             doc_lucene.add(new TextField("subject", subject[id], Store.YES));
             doc_lucene.add(new TextField("location", location[id], Store.YES));
             doc_lucene.add(new TextField("deadline", deadline[id], Store.YES));
+
 //            doc_lucene.add(new StringField("filename_id", id+"", Store.YES));
 //            doc_lucene.add(new StringField("from", from.get(id), Store.YES));
 //            doc_lucene.add(new StringField("to", to.get(id), Store.YES));
@@ -227,10 +208,12 @@ public class luceneIndex {
         }
     }
 
+
     //  ref link: https://www.jianshu.com/p/1f3ba892fc64
 
     public static void main(String[] args) throws IOException {
         init();
+
         luceneIndex.getField(600);
         for (File file : files) {
             System.out.println("create index for " + file.getName());
@@ -244,6 +227,25 @@ public class luceneIndex {
             fs_dir.copyFrom(ram_dir, file, file, IOContext.DEFAULT);
         }
         */
+    }
+
+    //url = indexpath;
+    public static void deleteAllFile(String url) {
+        try {
+            File file = new File("lucene\\index");
+            if (!file.exists()) {
+                return;
+            }
+            if (!file.isDirectory()) {
+                return;
+            }
+            for (File f : file.listFiles()) {
+                if (f.isFile())
+                    f.delete();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
 }
