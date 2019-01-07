@@ -33,3 +33,15 @@
  5. Lucene操作:
     
     这部分，把存入data\\目录下文件读取，存入Lucene中。 搜索则是提取相应内容。 可以使用lucene内置排序.
+
+## some existing problems:
+  
+ 1. auto-update:
+    
+    这里是使用Time来管理，实现固定时间循环访问函数。  
+    但对于Lucene索引文件，由于涉及到write_lock的问题，尚未解决。 对此，打算纸糊过去。  
+    
+ 2. extract topics:
+    
+    用的是正则(匹配较少)，但实际上用nlpCore更好。这方面可以参考正则的策略， 结合nlp parser(property: noun)以及 text 分析一下就行。
+   
