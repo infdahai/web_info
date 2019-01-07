@@ -1,8 +1,5 @@
 package doc_init;
 
-import com.google.protobuf.Type;
-import doc_init.file_process;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileOutputStream;
@@ -198,11 +195,11 @@ public class web_crawer {
 
     // because dbworld web will delete and update file every day . sometimes the num of all files
     // decreases , so we need to delete file with file id that it's more than num.
-    public static void delete_file(int begin) {
+    public static void delete_file(int begin, String path) {
         try {
             int index_1 = test_file();
             for (int j = begin; j < index_1; j++) {
-                File file = new File("doc/" + j + ".txt");
+                File file = new File(path + j + ".txt");
                 if (file.exists()) {
                     if (file.delete()) {
                         System.out.println(file.getName() + " 文件已被删除！");
@@ -217,14 +214,15 @@ public class web_crawer {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args, int argv) {
+      //  lucene.luceneIndex.deleteAllFile("lucene\\index");
         String url_base = "https://research.cs.wisc.edu/dbworld/browse.html";
         String[] sites = new String[1000];
         String[] ddl = new String[1000];
         String[] descriptions = new String[1000];
         String[] subject = new String[1000];
         int num = 4;
-        int init = 0;   // just change init and begin .
+        int init = argv;   // just change init and begin .
         int begin = 568;
         String targetStr = sendGet(url_base);
 /* for example
@@ -288,7 +286,7 @@ public class web_crawer {
         } else if (init == 4) {
             doCycle(sites, begin, num);
 
-            delete_file(index + 1);
+            delete_file(index + 1, "doc\\");
         }
         System.out.println("init ok!!!" + init);
     }
