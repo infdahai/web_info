@@ -12,13 +12,14 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 import java.io.*;
+import java.nio.channels.FileLock;
 import java.nio.file.Paths;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
 public class luceneIndex {
-    private static final String index_path = "lucene\\index";
+    private static final String index_path = "lucene\\index\\";
     private static final String origin_path = "modify_doc\\";
 
     //  private static Directory ram_dir;
@@ -38,7 +39,7 @@ public class luceneIndex {
 
     private static void init() throws IOException {
         //    ram_dir = new RAMDirectory();
-     //   deleteAllFile(index_path);
+        //   deleteAllFile(index_path);
         analyzer = new StandardAnalyzer();
         iwc = new IndexWriterConfig(analyzer);
         iwc.setOpenMode(OpenMode.CREATE_OR_APPEND);
@@ -213,7 +214,7 @@ public class luceneIndex {
 
     public static void main(String[] args) throws IOException {
         init();
-
+        deleteAllFile(index_path);
         luceneIndex.getField(600);
         for (File file : files) {
             System.out.println("create index for " + file.getName());
@@ -229,10 +230,35 @@ public class luceneIndex {
         */
     }
 
+    public static void deleteLock(String url) {
+        try {
+            FileLock file_lock_real = null;
+            File file_lock_file = new File(url + "write.lock");
+            if (file_lock_file.exists()) {
+                RandomAccessFile randAccessfile = new RandomAccessFile(file_lock_file, "rws");
+                file_lock_real = randAccessfile.getChannel().tryLock();
+                if (file_lock_real != null && file_lock_file.isDirectory()) {
+                    file_lock_file.delete();
+                } else if (file_lock_real != null && file_lock_file.isFile()) {
+                    file_lock_file.deleteOnExit();
+                }
+                if (file_lock_real != null) {
+                    file_lock_real.release();
+                    file_lock_real.channel().close();
+                }
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+    }
+
+
     //url = indexpath;
     public static void deleteAllFile(String url) {
         try {
-            File file = new File("lucene\\index");
+            deleteLock(url);
+            File file = new File(url);
             if (!file.exists()) {
                 return;
             }
@@ -243,6 +269,7 @@ public class luceneIndex {
                 if (f.isFile())
                     f.delete();
             }
+
         } catch (Exception e) {
             e.printStackTrace();
         }
