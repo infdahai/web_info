@@ -13,6 +13,10 @@ public class TimerTest {
         Date time = getTime();
         System.out.println("指定时间time=" + time);
         timer = new Timer();
+        //test_test  choose this way.  
+        // 1000 means 1s, 2000 means 2 second.  
+        // 1000 is delay, 2000 is period
+        // timer.schedule(new TimerTaskTest(),1000,2000);
         timer.schedule(new TimerTaskTest(),time,period);
     }
 
