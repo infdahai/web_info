@@ -76,7 +76,7 @@ public class pickup_Topic {
     public static ArrayList<String> pickUP(String doc, ArrayList<String> topic_list) {
 
         int begin = 0, end = 0;
-        String sub_doc="";
+        String sub_doc = "";
         Pattern pattern_1;
         Matcher matcher_1;
         Pattern pattern_0 = Pattern.compile(text_3, Pattern.CASE_INSENSITIVE);
@@ -96,7 +96,7 @@ public class pickup_Topic {
             }
         }
 
-        if (flag==1) {
+        if (flag == 1) {
             pattern_1 = Pattern.compile(text_1);
             matcher_1 = pattern_1.matcher(sub_doc);
             if (matcher_1.find()) {
@@ -152,9 +152,11 @@ public class pickup_Topic {
         for (int j = 0; j < upper_case; j++) {
             File file = new File(origin_path + "md_" + j + ".txt");
             System.out.println("topics extract file for " + file.getName());
+            /*
             if (j == 9) {
                 System.out.println(j);
             }
+            */
             String content = file_process.readToString(file);
             WriteStringToFile(pickUP(content, topics_list), j);
             System.out.println("topics process done ok !!!!");
