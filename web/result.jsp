@@ -27,9 +27,11 @@
                 strHistory = strHistory+"  "+his[i];
         }
         strHistory += "  "+queryText;
+
     }
     if(queryPage == null || queryPage.equals(""))
         queryPage = "1";
+
 %>
 <html>
 <head>
@@ -97,6 +99,7 @@
             String strFrom, strTo, strUrl, strSubject, strDeadline, strLocation, strTopics;
             for(int i = 0 ; i < results.size() ; i ++){
                 Map<String,String> doc = results.get(i);
+
                 strFrom = doc.get("from");
                 strTo = doc.get("to");
                 strUrl = doc.get("description");
@@ -105,6 +108,7 @@
                 strLocation = doc.get("location");
                 strTopics = doc.get("topics");
                 if(strTopics.length()>100) strTopics = strTopics.substring(0,100) + "...";
+
                 out.println("<font color = \"blue\" size = \"3\">");
                 out.print("<a href=\"" + strUrl + "\">" + strSubject + "</a>");
                 out.println("</font>" + "<br>");
