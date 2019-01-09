@@ -8,7 +8,7 @@
   We will finish search-engine lab before ddl(~~2019.1.5~~ it's updated to 2019.1.10 now).  But it's still a tough project.
   
   Our Team:
-          nlh && zta
+          nlh && zta    
   
   **Let's try our best!!**
 
@@ -48,4 +48,6 @@
  ## the final:
  
   不管怎么说，完结撒花吧:tada:(我和我的队友都**心力交瘁** :pray: )
+    
+  本实验参考cjp，zevin等代码，非常感谢他们
  
